@@ -1,0 +1,61 @@
+from aiogram import Router
+from aiogram.types import InlineQuery, InlineQueryResultArticle, InputTextMessageContent
+from aiogram import types
+from aiogram.utils.keyboard import InlineKeyboardBuilder
+from mal import AnimeSearch
+from aiogram.utils.markdown import hide_link
+from database import get_user_rating_for_anime
+
+router = Router()
+
+@router.inline_query()
+async def anime_search(inline_query: InlineQuery):
+    user_id = inline_query.from_user.id
+    search_query = inline_query.query.strip() or "Darling in the FranXX"  # По умолчанию для примера
+    chat_type_check = inline_query.chat_type
+
+    # Если запрос пустой, загружаем данные из файла
+    if not search_query or search_query == "Darling in the FranXX":
+        search_results = AnimeSearch("Darling in the FranXX").results[:5]
+    else:
+        search_results = AnimeSearch(search_query).results[:5]  # Получаем первые 5 результатов
+
+    articles = []
+    for anime in search_results:
+        # Проверяем, является ли anime словарем (кэшированные данные) или объектом (данные из API)
+        mal_id = anime['mal_id'] if isinstance(anime, dict) else anime.mal_id
+        user_rating = await get_user_rating_for_anime(user_id, mal_id)
+        user_rating_text = f"⭐️ Ваша оценка: {user_rating}\n" if user_rating is not None else ""
+
+        title = anime['title'] if isinstance(anime, dict) else anime.title
+        description = f"{anime['score']}\n{anime['type']}" if isinstance(anime, dict) else f"{anime.score}\n{anime.type}"
+        thumb_url = anime['image_url'] if isinstance(anime, dict) else anime.image_url
+        episodes = anime['episodes'] if isinstance(anime, dict) else anime.episodes
+        score = anime['score'] if isinstance(anime, dict) else anime.score
+
+        input_content = InputTextMessageContent(
+            message_text=f"🖊 Название: {title}\n"
+                         f"🖥 Тип: {anime['type'] if isinstance(anime, dict) else anime.type}\n"
+                         f"🗃 Эпизоды: {episodes}\n"
+                         f"⭐️ Оценка на MAL: {score}\n"
+                         f" \n"
+                         f"{hide_link(thumb_url)}"
+                         f"{user_rating_text}\n",
+            parse_mode='HTML'
+        )
+        reply_markup = None
+        if chat_type_check == "sender":
+            reply_markup = InlineKeyboardBuilder()
+            reply_markup.add(types.InlineKeyboardButton(text="Оценить", callback_data=f"rate_anime:{mal_id}"))
+            reply_markup = reply_markup.as_markup()
+        article = InlineQueryResultArticle(
+            id=str(mal_id),
+            title=title,
+            description=description,
+            input_message_content=input_content,
+            thumb_url=thumb_url,
+            reply_markup=reply_markup
+        )
+        articles.append(article)
+
+    await inline_query.answer(articles, is_personal=True, cache_time=0)

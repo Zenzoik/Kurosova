@@ -1,0 +1,5069 @@
+[
+    {
+        "id": 1,
+        "title": "Cowboy Bebop",
+        "scored_by": 951172,
+        "type": "TV",
+        "episodes": 26,
+        "score": 8.75,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/19644.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Cowboy Bebop: Tengoku no Tobira",
+        "scored_by": 212902,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.38,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1439/93480.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Trigun",
+        "scored_by": 368878,
+        "type": "TV",
+        "episodes": 26,
+        "score": 8.22,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/20310.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Witch Hunter Robin",
+        "scored_by": 43548,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.24,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/19969.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Eyeshield 21",
+        "scored_by": 88360,
+        "type": "TV",
+        "episodes": 145,
+        "score": 7.91,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1079/133529.jpg"
+    },
+    {
+        "id": 16,
+        "title": "Hachimitsu to Clover",
+        "scored_by": 83178,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.99,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1301/133577.jpg"
+    },
+    {
+        "id": 18,
+        "title": "Initial D Fourth Stage",
+        "scored_by": 104102,
+        "type": "TV",
+        "episodes": 24,
+        "score": 8.17,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/10521.jpg"
+    },
+    {
+        "id": 19,
+        "title": "Monster",
+        "scored_by": 404765,
+        "type": "TV",
+        "episodes": 74,
+        "score": 8.88,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/18793.jpg"
+    },
+    {
+        "id": 20,
+        "title": "Naruto",
+        "scored_by": 1949055,
+        "type": "TV",
+        "episodes": 220,
+        "score": 7.99,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/17405.jpg"
+    },
+    {
+        "id": 22,
+        "title": "Tennis no Oujisama",
+        "scored_by": 83661,
+        "type": "TV",
+        "episodes": 178,
+        "score": 7.85,
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/21624.jpg"
+    },
+    {
+        "id": 24,
+        "title": "School Rumble",
+        "scored_by": 148786,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.89,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/75488.jpg"
+    },
+    {
+        "id": 25,
+        "title": "Sunabouzu",
+        "scored_by": 54768,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.38,
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/75536.jpg"
+    },
+    {
+        "id": 26,
+        "title": "Texhnolyze",
+        "scored_by": 56905,
+        "type": "TV",
+        "episodes": 22,
+        "score": 7.76,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1027/131977.jpg"
+    },
+    {
+        "id": 27,
+        "title": "Trinity Blood",
+        "scored_by": 80156,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.29,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/24649.jpg"
+    },
+    {
+        "id": 28,
+        "title": "Yakitate!! Japan",
+        "scored_by": 41208,
+        "type": "TV",
+        "episodes": 69,
+        "score": 7.91,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/76432.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Shinseiki Evangelion",
+        "scored_by": 1070825,
+        "type": "TV",
+        "episodes": 26,
+        "score": 8.35,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg"
+    },
+    {
+        "id": 31,
+        "title": "Shinseiki Evangelion Movie: Shi to Shinsei",
+        "scored_by": 144406,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.47,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1993/113122.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",
+        "scored_by": 613413,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.55,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg"
+    },
+    {
+        "id": 33,
+        "title": "Kenpuu Denki Berserk",
+        "scored_by": 346554,
+        "type": "TV",
+        "episodes": 25,
+        "score": 8.58,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1384/119988.jpg"
+    },
+    {
+        "id": 43,
+        "title": "Koukaku Kidoutai",
+        "scored_by": 327457,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.27,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/82594.jpg"
+    },
+    {
+        "id": 44,
+        "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
+        "scored_by": 137175,
+        "type": "OVA",
+        "episodes": 4,
+        "score": 8.7,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1656/137618.jpg"
+    },
+    {
+        "id": 45,
+        "title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+        "scored_by": 235848,
+        "type": "TV",
+        "episodes": 94,
+        "score": 8.29,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1346/119505.jpg"
+    },
+    {
+        "id": 46,
+        "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Chinkonka",
+        "scored_by": 27489,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.55,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/47845.jpg"
+    },
+    {
+        "id": 47,
+        "title": "Akira",
+        "scored_by": 507732,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.16,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1408/114012.jpg"
+    },
+    {
+        "id": 48,
+        "title": ".hack//Sign",
+        "scored_by": 84117,
+        "type": "TV",
+        "episodes": 26,
+        "score": 6.95,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1443/94665.jpg"
+    },
+    {
+        "id": 49,
+        "title": "Aa! Megami-sama!",
+        "scored_by": 26804,
+        "type": "OVA",
+        "episodes": 5,
+        "score": 7.29,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/71215.jpg"
+    },
+    {
+        "id": 50,
+        "title": "Aa! Megami-sama! (TV)",
+        "scored_by": 77412,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.32,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1976/99376.jpg"
+    },
+    {
+        "id": 51,
+        "title": "Tenshi Kinryouku",
+        "scored_by": 26975,
+        "type": "OVA",
+        "episodes": 3,
+        "score": 6.26,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/45208.jpg"
+    },
+    {
+        "id": 52,
+        "title": "Kidou Tenshi Angelic Layer",
+        "scored_by": 28851,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.26,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1192/113699.jpg"
+    },
+    {
+        "id": 53,
+        "title": "Ai Yori Aoshi",
+        "scored_by": 53616,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.1,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/10172.jpg"
+    },
+    {
+        "id": 54,
+        "title": "Appleseed (Movie)",
+        "scored_by": 41627,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.06,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/57231.jpg"
+    },
+    {
+        "id": 57,
+        "title": "Beck",
+        "scored_by": 140070,
+        "type": "TV",
+        "episodes": 26,
+        "score": 8.29,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/11636.jpg"
+    },
+    {
+        "id": 58,
+        "title": "Blue Gender",
+        "scored_by": 30237,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.02,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1/2023.jpg"
+    },
+    {
+        "id": 59,
+        "title": "Chobits",
+        "scored_by": 253203,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.4,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/24648.jpg"
+    },
+    {
+        "id": 60,
+        "title": "Chrno Crusade",
+        "scored_by": 103948,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.61,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/14141.jpg"
+    },
+    {
+        "id": 61,
+        "title": "D.N.Angel",
+        "scored_by": 98882,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.17,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1126/98904.jpg"
+    },
+    {
+        "id": 62,
+        "title": "D.C.: Da Capo",
+        "scored_by": 30608,
+        "type": "TV",
+        "episodes": 26,
+        "score": 6.71,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/73936.jpg"
+    },
+    {
+        "id": 63,
+        "title": "DearS",
+        "scored_by": 79507,
+        "type": "TV",
+        "episodes": 12,
+        "score": 6.56,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1207/98872.jpg"
+    },
+    {
+        "id": 64,
+        "title": "Rozen Maiden",
+        "scored_by": 97163,
+        "type": "TV",
+        "episodes": 12,
+        "score": 7.41,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1424/108431.jpg"
+    },
+    {
+        "id": 65,
+        "title": "Rozen Maiden: Träumend",
+        "scored_by": 58851,
+        "type": "TV",
+        "episodes": 12,
+        "score": 7.62,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/10242.jpg"
+    },
+    {
+        "id": 66,
+        "title": "Azumanga Daiou The Animation",
+        "scored_by": 155452,
+        "type": "TV",
+        "episodes": 26,
+        "score": 8.02,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1066/117358.jpg"
+    },
+    {
+        "id": 67,
+        "title": "Basilisk: Kouga Ninpou Chou",
+        "scored_by": 77730,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.54,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1103/133549.jpg"
+    },
+    {
+        "id": 68,
+        "title": "Black Cat (TV)",
+        "scored_by": 128942,
+        "type": "TV",
+        "episodes": 23,
+        "score": 7.32,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1183/133280.jpg"
+    },
+    {
+        "id": 71,
+        "title": "Full Metal Panic!",
+        "scored_by": 240637,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.6,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/75259.jpg"
+    },
+    {
+        "id": 72,
+        "title": "Full Metal Panic? Fumoffu",
+        "scored_by": 174478,
+        "type": "TV",
+        "episodes": 12,
+        "score": 8.03,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/75260.jpg"
+    },
+    {
+        "id": 73,
+        "title": "Full Metal Panic! The Second Raid",
+        "scored_by": 147908,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.92,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/75261.jpg"
+    },
+    {
+        "id": 74,
+        "title": "Gakuen Alice",
+        "scored_by": 51207,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.64,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/18118.jpg"
+    },
+    {
+        "id": 76,
+        "title": "Mahou Shoujo Lyrical Nanoha",
+        "scored_by": 41945,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.41,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1052/136283.jpg"
+    },
+    {
+        "id": 77,
+        "title": "Mahou Shoujo Lyrical Nanoha A's",
+        "scored_by": 33655,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.96,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/6767.jpg"
+    },
+    {
+        "id": 79,
+        "title": "Shuffle!",
+        "scored_by": 135294,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.02,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1290/133860.jpg"
+    },
+    {
+        "id": 80,
+        "title": "Kidou Senshi Gundam",
+        "scored_by": 59538,
+        "type": "TV",
+        "episodes": 43,
+        "score": 7.77,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg"
+    },
+    {
+        "id": 81,
+        "title": "Kidou Senshi Gundam: Dai 08 MS Shoutai",
+        "scored_by": 45783,
+        "type": "OVA",
+        "episodes": 12,
+        "score": 8.01,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/75618.jpg"
+    },
+    {
+        "id": 82,
+        "title": "Kidou Senshi Gundam 0080: Pocket no Naka no Sensou",
+        "scored_by": 33078,
+        "type": "OVA",
+        "episodes": 6,
+        "score": 7.98,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1/82.jpg"
+    },
+    {
+        "id": 84,
+        "title": "Kidou Senshi Gundam 0083: Stardust Memory",
+        "scored_by": 25057,
+        "type": "OVA",
+        "episodes": 13,
+        "score": 7.23,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/26654.jpg"
+    },
+    {
+        "id": 85,
+        "title": "Kidou Senshi Zeta Gundam",
+        "scored_by": 37887,
+        "type": "TV",
+        "episodes": 50,
+        "score": 7.9,
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/11153.jpg"
+    },
+    {
+        "id": 86,
+        "title": "Kidou Senshi Gundam ZZ",
+        "scored_by": 21215,
+        "type": "TV",
+        "episodes": 47,
+        "score": 6.69,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1848/91078.jpg"
+    },
+    {
+        "id": 87,
+        "title": "Kidou Senshi Gundam: Gyakushuu no Char",
+        "scored_by": 29284,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.67,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1523/92371.jpg"
+    },
+    {
+        "id": 90,
+        "title": "Shin Kidou Senki Gundam Wing",
+        "scored_by": 89323,
+        "type": "TV",
+        "episodes": 49,
+        "score": 7.68,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1884/114414.jpg"
+    },
+    {
+        "id": 91,
+        "title": "Shin Kidou Senki Gundam Wing: Endless Waltz",
+        "scored_by": 27533,
+        "type": "OVA",
+        "episodes": 3,
+        "score": 7.73,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1061/97444.jpg"
+    },
+    {
+        "id": 93,
+        "title": "Kidou Senshi Gundam SEED",
+        "scored_by": 94871,
+        "type": "TV",
+        "episodes": 50,
+        "score": 7.74,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1792/91081.jpg"
+    },
+    {
+        "id": 94,
+        "title": "Kidou Senshi Gundam SEED Destiny",
+        "scored_by": 64655,
+        "type": "TV",
+        "episodes": 50,
+        "score": 7.18,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1700/91080.jpg"
+    },
+    {
+        "id": 96,
+        "title": "Kidou Butouden G Gundam",
+        "scored_by": 37113,
+        "type": "TV",
+        "episodes": 49,
+        "score": 7.58,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1187/133654.jpg"
+    },
+    {
+        "id": 97,
+        "title": "Last Exile",
+        "scored_by": 70879,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.79,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/10888.jpg"
+    },
+    {
+        "id": 98,
+        "title": "Mai-HiME",
+        "scored_by": 51714,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.41,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/7226.jpg"
+    },
+    {
+        "id": 99,
+        "title": "Mai-Otome",
+        "scored_by": 25274,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.28,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/46897.jpg"
+    },
+    {
+        "id": 100,
+        "title": "Shin Shirayuki-hime Densetsu Prétear",
+        "scored_by": 28720,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.16,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/11709.jpg"
+    },
+    {
+        "id": 101,
+        "title": "Air",
+        "scored_by": 153417,
+        "type": "TV",
+        "episodes": 12,
+        "score": 7.28,
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/22059.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Aishiteruze Baby★★",
+        "scored_by": 53448,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.44,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/69665.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Ayashi no Ceres",
+        "scored_by": 27681,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.18,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1928/106202.jpg"
+    },
+    {
+        "id": 106,
+        "title": "Hana yori Dango",
+        "scored_by": 25093,
+        "type": "TV",
+        "episodes": 51,
+        "score": 7.59,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/42871.jpg"
+    },
+    {
+        "id": 109,
+        "title": "Bakuretsu Tenshi",
+        "scored_by": 31223,
+        "type": "TV",
+        "episodes": 24,
+        "score": 6.78,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/22647.jpg"
+    },
+    {
+        "id": 114,
+        "title": "Sakigake!! Cromartie Koukou",
+        "scored_by": 54039,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.89,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1782/130913.jpg"
+    },
+    {
+        "id": 120,
+        "title": "Fruits Basket",
+        "scored_by": 281399,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.69,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/75204.jpg"
+    },
+    {
+        "id": 121,
+        "title": "Fullmetal Alchemist",
+        "scored_by": 885614,
+        "type": "TV",
+        "episodes": 51,
+        "score": 8.11,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg"
+    },
+    {
+        "id": 122,
+        "title": "Full Moon wo Sagashite",
+        "scored_by": 47629,
+        "type": "TV",
+        "episodes": 52,
+        "score": 7.94,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1900/99154.jpg"
+    },
+    {
+        "id": 123,
+        "title": "Fushigi Yuugi",
+        "scored_by": 51915,
+        "type": "TV",
+        "episodes": 52,
+        "score": 7.61,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/20140.jpg"
+    },
+    {
+        "id": 129,
+        "title": "Gensoumaden Saiyuuki",
+        "scored_by": 21470,
+        "type": "TV",
+        "episodes": 50,
+        "score": 7.54,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/75282.jpg"
+    },
+    {
+        "id": 132,
+        "title": "GetBackers",
+        "scored_by": 53630,
+        "type": "TV",
+        "episodes": 49,
+        "score": 7.57,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1056/109721.jpg"
+    },
+    {
+        "id": 133,
+        "title": "Green Green",
+        "scored_by": 66257,
+        "type": "TV",
+        "episodes": 12,
+        "score": 6.15,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/75251.jpg"
+    },
+    {
+        "id": 134,
+        "title": "Gunslinger Girl",
+        "scored_by": 77355,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.39,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/3088.jpg"
+    },
+    {
+        "id": 135,
+        "title": "Hikaru no Go",
+        "scored_by": 62833,
+        "type": "TV",
+        "episodes": 75,
+        "score": 8.08,
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/78317.jpg"
+    },
+    {
+        "id": 136,
+        "title": "Hunter x Hunter",
+        "scored_by": 285037,
+        "type": "TV",
+        "episodes": 62,
+        "score": 8.41,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1305/132237.jpg"
+    },
+    {
+        "id": 137,
+        "title": "Hunter x Hunter: Original Video Animation",
+        "scored_by": 65620,
+        "type": "OVA",
+        "episodes": 8,
+        "score": 8.31,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1/137.jpg"
+    },
+    {
+        "id": 138,
+        "title": "Hunter x Hunter: Greed Island",
+        "scored_by": 85040,
+        "type": "OVA",
+        "episodes": 8,
+        "score": 8.18,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1902/122320.jpg"
+    },
+    {
+        "id": 139,
+        "title": "Hunter x Hunter: Greed Island Final",
+        "scored_by": 77685,
+        "type": "OVA",
+        "episodes": 14,
+        "score": 8.25,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1/139.jpg"
+    },
+    {
+        "id": 142,
+        "title": "Kamikaze Kaitou Jeanne",
+        "scored_by": 28295,
+        "type": "TV",
+        "episodes": 44,
+        "score": 7.47,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/20389.jpg"
+    },
+    {
+        "id": 143,
+        "title": "Kannazuki no Miko",
+        "scored_by": 30274,
+        "type": "TV",
+        "episodes": 12,
+        "score": 6.8,
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/73955.jpg"
+    },
+    {
+        "id": 144,
+        "title": "Kanon",
+        "scored_by": 27142,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.07,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1552/128388.jpg"
+    },
+    {
+        "id": 145,
+        "title": "Kareshi Kanojo no Jijou",
+        "scored_by": 80402,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.59,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1222/108880.jpg"
+    },
+    {
+        "id": 146,
+        "title": "Kono Minikuku mo Utsukushii Sekai",
+        "scored_by": 28694,
+        "type": "TV",
+        "episodes": 12,
+        "score": 6.7,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/21035.jpg"
+    },
+    {
+        "id": 147,
+        "title": "Kimi ga Nozomu Eien",
+        "scored_by": 68416,
+        "type": "TV",
+        "episodes": 14,
+        "score": 7.18,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/10227.jpg"
+    },
+    {
+        "id": 149,
+        "title": "Loveless",
+        "scored_by": 70083,
+        "type": "TV",
+        "episodes": 12,
+        "score": 6.74,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/22947.jpg"
+    },
+    {
+        "id": 150,
+        "title": "Blood+",
+        "scored_by": 158856,
+        "type": "TV",
+        "episodes": 50,
+        "score": 7.62,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/10183.jpg"
+    },
+    {
+        "id": 153,
+        "title": "Juuni Kokuki",
+        "scored_by": 45286,
+        "type": "TV",
+        "episodes": 45,
+        "score": 8.02,
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/50859.jpg"
+    },
+    {
+        "id": 154,
+        "title": "Shaman King",
+        "scored_by": 194713,
+        "type": "TV",
+        "episodes": 64,
+        "score": 7.75,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1722/99235.jpg"
+    },
+    {
+        "id": 156,
+        "title": "X",
+        "scored_by": 35146,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.39,
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/17167.jpg"
+    },
+    {
+        "id": 157,
+        "title": "Mahou Sensei Negima!",
+        "scored_by": 64182,
+        "type": "TV",
+        "episodes": 26,
+        "score": 6.93,
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/89535.jpg"
+    },
+    {
+        "id": 158,
+        "title": "Maria-sama ga Miteru",
+        "scored_by": 21633,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.29,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1994/114208.jpg"
+    },
+    {
+        "id": 160,
+        "title": "Ima, Soko ni Iru Boku",
+        "scored_by": 42043,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.6,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1094/109008.jpg"
+    },
+    {
+        "id": 161,
+        "title": "Peace Maker Kurogane",
+        "scored_by": 23329,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.3,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/77408.jpg"
+    },
+    {
+        "id": 164,
+        "title": "Mononoke Hime",
+        "scored_by": 800047,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.66,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/75919.jpg"
+    },
+    {
+        "id": 165,
+        "title": "RahXephon",
+        "scored_by": 43100,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.39,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/75168.jpg"
+    },
+    {
+        "id": 166,
+        "title": "Samurai 7",
+        "scored_by": 62694,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.44,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1190/95421.jpg"
+    },
+    {
+        "id": 167,
+        "title": "Scrapped Princess",
+        "scored_by": 38049,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.38,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1238/94717.jpg"
+    },
+    {
+        "id": 168,
+        "title": "s.CRY.ed",
+        "scored_by": 38552,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.36,
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/89882.jpg"
+    },
+    {
+        "id": 169,
+        "title": "Shingetsutan Tsukihime",
+        "scored_by": 71196,
+        "type": "TV",
+        "episodes": 12,
+        "score": 6.81,
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/20669.jpg"
+    },
+    {
+        "id": 170,
+        "title": "Slam Dunk",
+        "scored_by": 134408,
+        "type": "TV",
+        "episodes": 101,
+        "score": 8.55,
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/86890.jpg"
+    },
+    {
+        "id": 174,
+        "title": "Tenjou Tenge",
+        "scored_by": 90345,
+        "type": "TV",
+        "episodes": 24,
+        "score": 6.87,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1507/101835.jpg"
+    },
+    {
+        "id": 177,
+        "title": "Tsubasa Chronicle",
+        "scored_by": 96409,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.52,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/6555.jpg"
+    },
+    {
+        "id": 180,
+        "title": "Vandread",
+        "scored_by": 43694,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.16,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/75446.jpg"
+    },
+    {
+        "id": 181,
+        "title": "Vandread: The Second Stage",
+        "scored_by": 31719,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.39,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/75447.jpg"
+    },
+    {
+        "id": 182,
+        "title": "Tenkuu no Escaflowne",
+        "scored_by": 65613,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.66,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/30689.jpg"
+    },
+    {
+        "id": 185,
+        "title": "Initial D First Stage",
+        "scored_by": 189115,
+        "type": "TV",
+        "episodes": 26,
+        "score": 8.34,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1384/127972.jpg"
+    },
+    {
+        "id": 186,
+        "title": "Initial D Second Stage",
+        "scored_by": 133094,
+        "type": "TV",
+        "episodes": 13,
+        "score": 8.17,
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/12750.jpg"
+    },
+    {
+        "id": 187,
+        "title": "Initial D Third Stage",
+        "scored_by": 111337,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.9,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/40397.jpg"
+    },
+    {
+        "id": 189,
+        "title": "Love Hina",
+        "scored_by": 135583,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.1,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1153/99366.jpg"
+    },
+    {
+        "id": 190,
+        "title": "Love Hina Again",
+        "scored_by": 51536,
+        "type": "OVA",
+        "episodes": 3,
+        "score": 7.21,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/10289.jpg"
+    },
+    {
+        "id": 191,
+        "title": "Love Hina Christmas Special: Silent Eve",
+        "scored_by": 35740,
+        "type": "TV Special",
+        "episodes": 1,
+        "score": 7.31,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/82467.jpg"
+    },
+    {
+        "id": 192,
+        "title": "Love Hina Haru Special: Kimi Sakura Chiru Nakare!!",
+        "scored_by": 31747,
+        "type": "TV Special",
+        "episodes": 1,
+        "score": 7.18,
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/82632.jpg"
+    },
+    {
+        "id": 193,
+        "title": "Maburaho",
+        "scored_by": 48610,
+        "type": "TV",
+        "episodes": 24,
+        "score": 6.73,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/79204.jpg"
+    },
+    {
+        "id": 195,
+        "title": "Onegai☆Teacher",
+        "scored_by": 95000,
+        "type": "TV",
+        "episodes": 12,
+        "score": 7.1,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1371/138517.jpg"
+    },
+    {
+        "id": 196,
+        "title": "Onegai☆Twins",
+        "scored_by": 49722,
+        "type": "TV",
+        "episodes": 12,
+        "score": 6.82,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1621/100229.jpg"
+    },
+    {
+        "id": 198,
+        "title": "Speed Grapher",
+        "scored_by": 41000,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.3,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/12343.jpg"
+    },
+    {
+        "id": 199,
+        "title": "Sen to Chihiro no Kamikakushi",
+        "scored_by": 1281931,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.77,
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/79597.jpg"
+    },
+    {
+        "id": 202,
+        "title": "Wolf's Rain",
+        "scored_by": 132004,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.8,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/59403.jpg"
+    },
+    {
+        "id": 205,
+        "title": "Samurai Champloo",
+        "scored_by": 630982,
+        "type": "TV",
+        "episodes": 26,
+        "score": 8.51,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1375/121599.jpg"
+    },
+    {
+        "id": 207,
+        "title": "Lodoss-tou Senki",
+        "scored_by": 25087,
+        "type": "OVA",
+        "episodes": 13,
+        "score": 7.35,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1644/92493.jpg"
+    },
+    {
+        "id": 208,
+        "title": "R.O.D: Read or Die",
+        "scored_by": 33321,
+        "type": "OVA",
+        "episodes": 3,
+        "score": 7.62,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1824/98849.jpg"
+    },
+    {
+        "id": 209,
+        "title": "R.O.D: The TV",
+        "scored_by": 28738,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.52,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/73350.jpg"
+    },
+    {
+        "id": 210,
+        "title": "Ranma ½",
+        "scored_by": 120343,
+        "type": "TV",
+        "episodes": 161,
+        "score": 7.76,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/6441.jpg"
+    },
+    {
+        "id": 223,
+        "title": "Dragon Ball",
+        "scored_by": 661141,
+        "type": "TV",
+        "episodes": 153,
+        "score": 7.96,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1887/92364.jpg"
+    },
+    {
+        "id": 225,
+        "title": "Dragon Ball GT",
+        "scored_by": 421452,
+        "type": "TV",
+        "episodes": 64,
+        "score": 6.49,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1262/93119.jpg"
+    },
+    {
+        "id": 226,
+        "title": "Elfen Lied",
+        "scored_by": 868959,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.47,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1780/121555.jpg"
+    },
+    {
+        "id": 227,
+        "title": "FLCL",
+        "scored_by": 431644,
+        "type": "OVA",
+        "episodes": 6,
+        "score": 8.03,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/77356.jpg"
+    },
+    {
+        "id": 228,
+        "title": "Jigoku Shoujo",
+        "scored_by": 132926,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.61,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/86907.jpg"
+    },
+    {
+        "id": 232,
+        "title": "Cardcaptor Sakura",
+        "scored_by": 218078,
+        "type": "TV",
+        "episodes": 70,
+        "score": 8.17,
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/60781.jpg"
+    },
+    {
+        "id": 237,
+        "title": "Koukyoushihen Eureka Seven",
+        "scored_by": 181803,
+        "type": "TV",
+        "episodes": 50,
+        "score": 8.05,
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/34443.jpg"
+    },
+    {
+        "id": 238,
+        "title": "Rekka no Honoo",
+        "scored_by": 28088,
+        "type": "TV",
+        "episodes": 42,
+        "score": 7.34,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1646/113504.jpg"
+    },
+    {
+        "id": 239,
+        "title": "Gankutsuou",
+        "scored_by": 74052,
+        "type": "TV",
+        "episodes": 24,
+        "score": 8.13,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1910/138560.jpg"
+    },
+    {
+        "id": 240,
+        "title": "Genshiken",
+        "scored_by": 70939,
+        "type": "TV",
+        "episodes": 12,
+        "score": 7.63,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1890/94707.jpg"
+    },
+    {
+        "id": 241,
+        "title": "Girls Bravo: First Season",
+        "scored_by": 72010,
+        "type": "TV",
+        "episodes": 11,
+        "score": 6.37,
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/48027.jpg"
+    },
+    {
+        "id": 242,
+        "title": "Gokusen",
+        "scored_by": 21197,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.4,
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/25273.jpg"
+    },
+    {
+        "id": 243,
+        "title": "Gravitation",
+        "scored_by": 64673,
+        "type": "TV",
+        "episodes": 13,
+        "score": 6.92,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/21856.jpg"
+    },
+    {
+        "id": 245,
+        "title": "Great Teacher Onizuka",
+        "scored_by": 401417,
+        "type": "TV",
+        "episodes": 43,
+        "score": 8.69,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/11460.jpg"
+    },
+    {
+        "id": 246,
+        "title": "Groove Adventure Rave",
+        "scored_by": 40829,
+        "type": "TV",
+        "episodes": 51,
+        "score": 7.21,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/20134.jpg"
+    },
+    {
+        "id": 248,
+        "title": "Ichigo 100%",
+        "scored_by": 54801,
+        "type": "TV",
+        "episodes": 12,
+        "score": 6.62,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1157/132580.jpg"
+    },
+    {
+        "id": 249,
+        "title": "InuYasha",
+        "scored_by": 387766,
+        "type": "TV",
+        "episodes": 167,
+        "score": 7.86,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1589/95329.jpg"
+    },
+    {
+        "id": 250,
+        "title": "Konjiki no Gash Bell!!",
+        "scored_by": 60177,
+        "type": "TV",
+        "episodes": 150,
+        "score": 7.54,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1151/125951.jpg"
+    },
+    {
+        "id": 251,
+        "title": "Kyou kara Maou!",
+        "scored_by": 41818,
+        "type": "TV",
+        "episodes": 78,
+        "score": 7.62,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/75544.jpg"
+    },
+    {
+        "id": 256,
+        "title": "Hoshi no Koe",
+        "scored_by": 79723,
+        "type": "OVA",
+        "episodes": 1,
+        "score": 7.11,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1980/112997.jpg"
+    },
+    {
+        "id": 257,
+        "title": "Ikkitousen",
+        "scored_by": 70468,
+        "type": "TV",
+        "episodes": 13,
+        "score": 6.39,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1097/133583.jpg"
+    },
+    {
+        "id": 263,
+        "title": "Hajime no Ippo",
+        "scored_by": 285635,
+        "type": "TV",
+        "episodes": 75,
+        "score": 8.77,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/86334.jpg"
+    },
+    {
+        "id": 264,
+        "title": "Hajime no Ippo: Champion Road",
+        "scored_by": 82749,
+        "type": "TV Special",
+        "episodes": 1,
+        "score": 8.26,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1521/137978.jpg"
+    },
+    {
+        "id": 265,
+        "title": "Hajime no Ippo: Mashiba vs. Kimura",
+        "scored_by": 67377,
+        "type": "OVA",
+        "episodes": 1,
+        "score": 8.24,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/64737.jpg"
+    },
+    {
+        "id": 267,
+        "title": "Gungrave",
+        "scored_by": 69156,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.82,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/75724.jpg"
+    },
+    {
+        "id": 268,
+        "title": "Golden Boy",
+        "scored_by": 214327,
+        "type": "OVA",
+        "episodes": 6,
+        "score": 8.04,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/62867.jpg"
+    },
+    {
+        "id": 269,
+        "title": "Bleach",
+        "scored_by": 1115261,
+        "type": "TV",
+        "episodes": 366,
+        "score": 7.93,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/40451.jpg"
+    },
+    {
+        "id": 270,
+        "title": "Hellsing",
+        "scored_by": 366970,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.49,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/19956.jpg"
+    },
+    {
+        "id": 272,
+        "title": "Noir",
+        "scored_by": 39419,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.29,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1054/96577.jpg"
+    },
+    {
+        "id": 276,
+        "title": "Mahoromatic: Automatic Maiden",
+        "scored_by": 26504,
+        "type": "TV",
+        "episodes": 12,
+        "score": 7.14,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/23051.jpg"
+    },
+    {
+        "id": 287,
+        "title": "Grappler Baki (TV)",
+        "scored_by": 73761,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.46,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1782/128917.jpg"
+    },
+    {
+        "id": 288,
+        "title": "Bakuten Shoot Beyblade",
+        "scored_by": 71520,
+        "type": "TV",
+        "episodes": 51,
+        "score": 6.77,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1429/127983.jpg"
+    },
+    {
+        "id": 297,
+        "title": "Grenadier: Hohoemi no Senshi",
+        "scored_by": 25378,
+        "type": "TV",
+        "episodes": 12,
+        "score": 6.69,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1691/114822.jpg"
+    },
+    {
+        "id": 298,
+        "title": ".hack//Tasogare no Udewa Densetsu",
+        "scored_by": 35110,
+        "type": "TV",
+        "episodes": 12,
+        "score": 6.55,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/78321.jpg"
+    },
+    {
+        "id": 304,
+        "title": "Aa! Megami-sama! Movie",
+        "scored_by": 22755,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.54,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/71211.jpg"
+    },
+    {
+        "id": 306,
+        "title": "Abenobashi Mahou☆Shoutengai",
+        "scored_by": 34534,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.23,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1350/113655.jpg"
+    },
+    {
+        "id": 317,
+        "title": "Final Fantasy VII: Advent Children",
+        "scored_by": 144120,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.72,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1/317.jpg"
+    },
+    {
+        "id": 320,
+        "title": "A Kite",
+        "scored_by": 34926,
+        "type": "OVA",
+        "episodes": 2,
+        "score": 6.53,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1224/113092.jpg"
+    },
+    {
+        "id": 322,
+        "title": "Paradise Kiss",
+        "scored_by": 97091,
+        "type": "TV",
+        "episodes": 12,
+        "score": 7.86,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/80636.jpg"
+    },
+    {
+        "id": 323,
+        "title": "Mousou Dairinin",
+        "scored_by": 160253,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.67,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/10240.jpg"
+    },
+    {
+        "id": 325,
+        "title": "Peach Girl",
+        "scored_by": 51552,
+        "type": "TV",
+        "episodes": 25,
+        "score": 6.93,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/75579.jpg"
+    },
+    {
+        "id": 326,
+        "title": "Petshop of Horrors",
+        "scored_by": 31414,
+        "type": "TV",
+        "episodes": 4,
+        "score": 7.24,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/64543.jpg"
+    },
+    {
+        "id": 329,
+        "title": "Planetes",
+        "scored_by": 76273,
+        "type": "TV",
+        "episodes": 26,
+        "score": 8.26,
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/50463.jpg"
+    },
+    {
+        "id": 330,
+        "title": "Midori no Hibi",
+        "scored_by": 88760,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.22,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/56961.jpg"
+    },
+    {
+        "id": 334,
+        "title": "Marmalade Boy",
+        "scored_by": 21805,
+        "type": "TV",
+        "episodes": 76,
+        "score": 7.43,
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/6092.jpg"
+    },
+    {
+        "id": 338,
+        "title": "Versailles no Bara",
+        "scored_by": 29256,
+        "type": "TV",
+        "episodes": 40,
+        "score": 8.33,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/57043.jpg"
+    },
+    {
+        "id": 339,
+        "title": "Serial Experiments Lain",
+        "scored_by": 297751,
+        "type": "TV",
+        "episodes": 13,
+        "score": 8.09,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1718/91550.jpg"
+    },
+    {
+        "id": 341,
+        "title": "Spiral: Suiri no Kizuna",
+        "scored_by": 22873,
+        "type": "TV",
+        "episodes": 25,
+        "score": 7.22,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1771/92118.jpg"
+    },
+    {
+        "id": 343,
+        "title": "Tsukuyomi: Moon Phase",
+        "scored_by": 30148,
+        "type": "TV",
+        "episodes": 25,
+        "score": 6.93,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/75255.jpg"
+    },
+    {
+        "id": 350,
+        "title": "Ojamajo Doremi",
+        "scored_by": 24002,
+        "type": "TV",
+        "episodes": 51,
+        "score": 7.34,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1069/133679.jpg"
+    },
+    {
+        "id": 355,
+        "title": "Shakugan no Shana",
+        "scored_by": 257243,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.45,
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/21197.jpg"
+    },
+    {
+        "id": 356,
+        "title": "Fate/stay night",
+        "scored_by": 513159,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.28,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/30327.jpg"
+    },
+    {
+        "id": 357,
+        "title": "Bokusatsu Tenshi Dokuro-chan",
+        "scored_by": 109858,
+        "type": "OVA",
+        "episodes": 4,
+        "score": 6.54,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/13210.jpg"
+    },
+    {
+        "id": 368,
+        "title": "Bible Black",
+        "scored_by": 35074,
+        "type": "OVA",
+        "episodes": 6,
+        "score": 6.58,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/12768.jpg"
+    },
+    {
+        "id": 369,
+        "title": "Boogiepop wa Warawanai",
+        "scored_by": 33940,
+        "type": "TV",
+        "episodes": 12,
+        "score": 7.16,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1327/95777.jpg"
+    },
+    {
+        "id": 371,
+        "title": "Cardcaptor Sakura Movie 1",
+        "scored_by": 58189,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.63,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1733/90336.jpg"
+    },
+    {
+        "id": 372,
+        "title": "Cardcaptor Sakura Movie 2: Fuuin Sareta Card",
+        "scored_by": 66453,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.21,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1652/90326.jpg"
+    },
+    {
+        "id": 376,
+        "title": "Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer",
+        "scored_by": 113736,
+        "type": "Special",
+        "episodes": 1,
+        "score": 7.14,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1936/121639.jpg"
+    },
+    {
+        "id": 379,
+        "title": "Heppoko Jikken Animation Excel♥Saga",
+        "scored_by": 48698,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.49,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/11744.jpg"
+    },
+    {
+        "id": 384,
+        "title": "Gantz",
+        "scored_by": 178825,
+        "type": "TV",
+        "episodes": 13,
+        "score": 6.98,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/5998.jpg"
+    },
+    {
+        "id": 387,
+        "title": "Haibane Renmei",
+        "scored_by": 101024,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.97,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/13134.jpg"
+    },
+    {
+        "id": 389,
+        "title": "Karas",
+        "scored_by": 28072,
+        "type": "OVA",
+        "episodes": 6,
+        "score": 7.37,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1054/98245.jpg"
+    },
+    {
+        "id": 390,
+        "title": "Suzuka",
+        "scored_by": 54102,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.17,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/33579.jpg"
+    },
+    {
+        "id": 392,
+        "title": "Yuu☆Yuu☆Hakusho",
+        "scored_by": 326928,
+        "type": "TV",
+        "episodes": 112,
+        "score": 8.46,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1228/111372.jpg"
+    },
+    {
+        "id": 393,
+        "title": "Escaflowne",
+        "scored_by": 31547,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.06,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1539/94517.jpg"
+    },
+    {
+        "id": 394,
+        "title": "Ai Yori Aoshi: Enishi",
+        "scored_by": 32558,
+        "type": "TV",
+        "episodes": 12,
+        "score": 7.11,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/71425.jpg"
+    },
+    {
+        "id": 395,
+        "title": "Gantz 2nd Stage",
+        "scored_by": 97843,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.02,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/23247.jpg"
+    },
+    {
+        "id": 400,
+        "title": "Seihou Bukyou Outlaw Star",
+        "scored_by": 62872,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.84,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/28848.jpg"
+    },
+    {
+        "id": 401,
+        "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen",
+        "scored_by": 46185,
+        "type": "OVA",
+        "episodes": 2,
+        "score": 7.97,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1971/90877.jpg"
+    },
+    {
+        "id": 405,
+        "title": "Blood: The Last Vampire",
+        "scored_by": 59349,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 6.87,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/18913.jpg"
+    },
+    {
+        "id": 408,
+        "title": "Final Fantasy VII: Last Order",
+        "scored_by": 39048,
+        "type": "Special",
+        "episodes": 1,
+        "score": 7.29,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/80623.jpg"
+    },
+    {
+        "id": 411,
+        "title": "Gun x Sword",
+        "scored_by": 33228,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.26,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/25380.jpg"
+    },
+    {
+        "id": 412,
+        "title": "Kore ga Watashi no Goshujinsama",
+        "scored_by": 38095,
+        "type": "TV",
+        "episodes": 12,
+        "score": 6.52,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/80500.jpg"
+    },
+    {
+        "id": 413,
+        "title": "Hametsu no Mars",
+        "scored_by": 48476,
+        "type": "OVA",
+        "episodes": 1,
+        "score": 2.22,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/68855.jpg"
+    },
+    {
+        "id": 415,
+        "title": "Tonari no Yamada-kun",
+        "scored_by": 26076,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.11,
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/64545.jpg"
+    },
+    {
+        "id": 416,
+        "title": "Kurenai no Buta",
+        "scored_by": 156076,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.95,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1728/138709.jpg"
+    },
+    {
+        "id": 417,
+        "title": "Ragnarök The Animation",
+        "scored_by": 24446,
+        "type": "TV",
+        "episodes": 26,
+        "score": 6.45,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/2589.jpg"
+    },
+    {
+        "id": 419,
+        "title": "Samurai Deeper Kyou",
+        "scored_by": 26422,
+        "type": "TV",
+        "episodes": 26,
+        "score": 6.9,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/23744.jpg"
+    },
+    {
+        "id": 427,
+        "title": "Kaleido Star",
+        "scored_by": 35577,
+        "type": "TV",
+        "episodes": 51,
+        "score": 7.93,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1230/98847.jpg"
+    },
+    {
+        "id": 430,
+        "title": "Fullmetal Alchemist: The Conqueror of Shamballa",
+        "scored_by": 205428,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.51,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1707/94039.jpg"
+    },
+    {
+        "id": 431,
+        "title": "Howl no Ugoku Shiro",
+        "scored_by": 909765,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.66,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1470/138723.jpg"
+    },
+    {
+        "id": 433,
+        "title": "Kumo no Mukou, Yakusoku no Basho",
+        "scored_by": 91685,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.44,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1725/133738.jpg"
+    },
+    {
+        "id": 435,
+        "title": "Magic Knight Rayearth",
+        "scored_by": 28667,
+        "type": "TV",
+        "episodes": 20,
+        "score": 7.46,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1683/97042.jpg"
+    },
+    {
+        "id": 437,
+        "title": "Perfect Blue",
+        "scored_by": 372608,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.54,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1254/134212.jpg"
+    },
+    {
+        "id": 440,
+        "title": "Shoujo Kakumei Utena",
+        "scored_by": 63571,
+        "type": "TV",
+        "episodes": 39,
+        "score": 8.21,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1078/95285.jpg"
+    },
+    {
+        "id": 441,
+        "title": "Shoujo Kakumei Utena: Adolescence Mokushiroku",
+        "scored_by": 26460,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.65,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1268/107516.jpg"
+    },
+    {
+        "id": 442,
+        "title": "Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!",
+        "scored_by": 181177,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.12,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1231/134484.jpg"
+    },
+    {
+        "id": 443,
+        "title": "Onegai☆Teacher: Himitsu na Futari",
+        "scored_by": 29015,
+        "type": "OVA",
+        "episodes": 1,
+        "score": 7.28,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/33671.jpg"
+    },
+    {
+        "id": 448,
+        "title": "Tenjou Tenge: The Ultimate Fight",
+        "scored_by": 23158,
+        "type": "OVA",
+        "episodes": 2,
+        "score": 7.02,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/7362.jpg"
+    },
+    {
+        "id": 449,
+        "title": "InuYasha Movie 4: Guren no Houraijima",
+        "scored_by": 49406,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.55,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1216/94369.jpg"
+    },
+    {
+        "id": 450,
+        "title": "InuYasha Movie 2: Kagami no Naka no Mugenjou",
+        "scored_by": 57374,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.67,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1162/92219.jpg"
+    },
+    {
+        "id": 451,
+        "title": "InuYasha Movie 3: Tenka Hadou no Ken",
+        "scored_by": 53635,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.8,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1658/95332.jpg"
+    },
+    {
+        "id": 452,
+        "title": "InuYasha Movie 1: Toki wo Koeru Omoi",
+        "scored_by": 56498,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.56,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1683/94370.jpg"
+    },
+    {
+        "id": 457,
+        "title": "Mushishi",
+        "scored_by": 275755,
+        "type": "TV",
+        "episodes": 26,
+        "score": 8.66,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/73862.jpg"
+    },
+    {
+        "id": 459,
+        "title": "One Piece Movie 01",
+        "scored_by": 76477,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.09,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1770/97704.jpg"
+    },
+    {
+        "id": 460,
+        "title": "One Piece Movie 02: Nejimaki-jima no Daibouken",
+        "scored_by": 57641,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.1,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1939/97699.jpg"
+    },
+    {
+        "id": 461,
+        "title": "One Piece Movie 03: Chinjuu-jima no Chopper Oukoku",
+        "scored_by": 49209,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 6.86,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1017/97698.jpg"
+    },
+    {
+        "id": 462,
+        "title": "One Piece Movie 04: Dead End no Bouken",
+        "scored_by": 57464,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.53,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1100/116767.jpg"
+    },
+    {
+        "id": 463,
+        "title": "One Piece Movie 05: Norowareta Seiken",
+        "scored_by": 46693,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.12,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/25413.jpg"
+    },
+    {
+        "id": 464,
+        "title": "One Piece Movie 06: Omatsuri Danshaku to Himitsu no Shima",
+        "scored_by": 61185,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.76,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/25415.jpg"
+    },
+    {
+        "id": 465,
+        "title": "One Piece Movie 07: Karakuri-jou no Mecha Kyohei",
+        "scored_by": 40654,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.19,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/20927.jpg"
+    },
+    {
+        "id": 466,
+        "title": "One Piece: Taose! Kaizoku Ganzack",
+        "scored_by": 21444,
+        "type": "OVA",
+        "episodes": 1,
+        "score": 6.7,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1848/96972.jpg"
+    },
+    {
+        "id": 467,
+        "title": "Koukaku Kidoutai: Stand Alone Complex",
+        "scored_by": 163363,
+        "type": "TV",
+        "episodes": 26,
+        "score": 8.42,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/50857.jpg"
+    },
+    {
+        "id": 468,
+        "title": "Innocence",
+        "scored_by": 87042,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.78,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/75628.jpg"
+    },
+    {
+        "id": 469,
+        "title": "Karin",
+        "scored_by": 92701,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.11,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/79205.jpg"
+    },
+    {
+        "id": 474,
+        "title": "Macross Plus",
+        "scored_by": 22127,
+        "type": "OVA",
+        "episodes": 4,
+        "score": 7.71,
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/22779.jpg"
+    },
+    {
+        "id": 476,
+        "title": "Ginban Kaleidoscope",
+        "scored_by": 22894,
+        "type": "TV",
+        "episodes": 12,
+        "score": 7.3,
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/19926.jpg"
+    },
+    {
+        "id": 477,
+        "title": "Aria the Animation",
+        "scored_by": 50269,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.68,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/77620.jpg"
+    },
+    {
+        "id": 478,
+        "title": "Sousei no Aquarion",
+        "scored_by": 31484,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.08,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/76291.jpg"
+    },
+    {
+        "id": 479,
+        "title": "Ueki no Housoku",
+        "scored_by": 48616,
+        "type": "TV",
+        "episodes": 51,
+        "score": 7.72,
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/20596.jpg"
+    },
+    {
+        "id": 481,
+        "title": "Yu☆Gi☆Oh! Duel Monsters",
+        "scored_by": 249950,
+        "type": "TV",
+        "episodes": 224,
+        "score": 7.49,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/77055.jpg"
+    },
+    {
+        "id": 482,
+        "title": "Yu☆Gi☆Oh! Duel Monsters GX",
+        "scored_by": 135120,
+        "type": "TV",
+        "episodes": 180,
+        "score": 7.2,
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/20873.jpg"
+    },
+    {
+        "id": 486,
+        "title": "Kino no Tabi: The Beautiful World",
+        "scored_by": 95791,
+        "type": "TV",
+        "episodes": 13,
+        "score": 8.28,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1763/95397.jpg"
+    },
+    {
+        "id": 487,
+        "title": "Girls Bravo: Second Season",
+        "scored_by": 48581,
+        "type": "TV",
+        "episodes": 13,
+        "score": 6.6,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1538/133872.jpg"
+    },
+    {
+        "id": 488,
+        "title": "Ichigo Mashimaro",
+        "scored_by": 36479,
+        "type": "TV",
+        "episodes": 12,
+        "score": 7.63,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/11042.jpg"
+    },
+    {
+        "id": 490,
+        "title": "Paniponi Dash!",
+        "scored_by": 21960,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.43,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1581/138842.jpg"
+    },
+    {
+        "id": 502,
+        "title": "Dragon Ball Movie 1: Shen Long no Densetsu",
+        "scored_by": 37724,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 6.76,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1992/121522.jpg"
+    },
+    {
+        "id": 508,
+        "title": "Tottoko Hamtarou",
+        "scored_by": 29360,
+        "type": "TV",
+        "episodes": 296,
+        "score": 7.0,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/21562.jpg"
+    },
+    {
+        "id": 512,
+        "title": "Majo no Takkyuubin",
+        "scored_by": 375442,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.22,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1579/140483.jpg"
+    },
+    {
+        "id": 513,
+        "title": "Tenkuu no Shiro Laputa",
+        "scored_by": 301913,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.26,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/37799.jpg"
+    },
+    {
+        "id": 514,
+        "title": "Cossette no Shouzou",
+        "scored_by": 28825,
+        "type": "OVA",
+        "episodes": 3,
+        "score": 6.79,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/77004.jpg"
+    },
+    {
+        "id": 516,
+        "title": "Keroro Gunsou",
+        "scored_by": 34395,
+        "type": "TV",
+        "episodes": 358,
+        "score": 7.69,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1121/117792.jpg"
+    },
+    {
+        "id": 517,
+        "title": "School Rumble: Ichi Gakki Hoshuu",
+        "scored_by": 33418,
+        "type": "OVA",
+        "episodes": 2,
+        "score": 7.71,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/75489.jpg"
+    },
+    {
+        "id": 521,
+        "title": "Mermaid Melody Pichi Pichi Pitch",
+        "scored_by": 41648,
+        "type": "TV",
+        "episodes": 52,
+        "score": 7.17,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/9640.jpg"
+    },
+    {
+        "id": 522,
+        "title": "Metropolis",
+        "scored_by": 44333,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.52,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/75601.jpg"
+    },
+    {
+        "id": 523,
+        "title": "Tonari no Totoro",
+        "scored_by": 684832,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.25,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/75923.jpg"
+    },
+    {
+        "id": 527,
+        "title": "Pokemon",
+        "scored_by": 396287,
+        "type": "TV",
+        "episodes": 276,
+        "score": 7.38,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/73834.jpg"
+    },
+    {
+        "id": 528,
+        "title": "Pokemon Movie 01: Mewtwo no Gyakushuu",
+        "scored_by": 177736,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.65,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1513/140273.jpg"
+    },
+    {
+        "id": 529,
+        "title": "Saishuu Heiki Kanojo",
+        "scored_by": 37460,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.14,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1/529.jpg"
+    },
+    {
+        "id": 530,
+        "title": "Bishoujo Senshi Sailor Moon",
+        "scored_by": 187347,
+        "type": "TV",
+        "episodes": 46,
+        "score": 7.73,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1440/92258.jpg"
+    },
+    {
+        "id": 531,
+        "title": "Bishoujo Senshi Sailor Moon R: The Movie",
+        "scored_by": 36443,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.72,
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/18897.jpg"
+    },
+    {
+        "id": 532,
+        "title": "Bishoujo Senshi Sailor Moon S",
+        "scored_by": 77618,
+        "type": "TV",
+        "episodes": 38,
+        "score": 7.9,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1077/92346.jpg"
+    },
+    {
+        "id": 534,
+        "title": "Slayers",
+        "scored_by": 62045,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.73,
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/19870.jpg"
+    },
+    {
+        "id": 535,
+        "title": "Slayers Next",
+        "scored_by": 37482,
+        "type": "TV",
+        "episodes": 26,
+        "score": 8.02,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1165/92536.jpg"
+    },
+    {
+        "id": 539,
+        "title": "Tenchi Muyou! Ryououki",
+        "scored_by": 24209,
+        "type": "OVA",
+        "episodes": 6,
+        "score": 7.61,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1224/95301.jpg"
+    },
+    {
+        "id": 543,
+        "title": "Vampire Hunter D (2000)",
+        "scored_by": 95555,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.93,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1571/135153.jpg"
+    },
+    {
+        "id": 550,
+        "title": "Yu☆Gi☆Oh!",
+        "scored_by": 139801,
+        "type": "TV",
+        "episodes": 27,
+        "score": 7.23,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/47487.jpg"
+    },
+    {
+        "id": 551,
+        "title": "Grappler Baki: Saidai Tournament-hen",
+        "scored_by": 49404,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.49,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1433/96723.jpg"
+    },
+    {
+        "id": 552,
+        "title": "Digimon Adventure",
+        "scored_by": 255409,
+        "type": "TV",
+        "episodes": 54,
+        "score": 7.77,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1471/99249.jpg"
+    },
+    {
+        "id": 553,
+        "title": "Yami no Matsuei",
+        "scored_by": 24139,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.02,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1414/109717.jpg"
+    },
+    {
+        "id": 558,
+        "title": "Major S2",
+        "scored_by": 45091,
+        "type": "TV",
+        "episodes": 26,
+        "score": 8.19,
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/73972.jpg"
+    },
+    {
+        "id": 563,
+        "title": "DNA²",
+        "scored_by": 20605,
+        "type": "TV",
+        "episodes": 12,
+        "score": 6.64,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1433/103506.jpg"
+    },
+    {
+        "id": 565,
+        "title": "Steamboy",
+        "scored_by": 40575,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.31,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/21278.jpg"
+    },
+    {
+        "id": 567,
+        "title": "The Big O",
+        "scored_by": 37852,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.53,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1/567.jpg"
+    },
+    {
+        "id": 570,
+        "title": "Jin-Rou",
+        "scored_by": 77480,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.77,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1323/103343.jpg"
+    },
+    {
+        "id": 572,
+        "title": "Kaze no Tani no Nausicaä",
+        "scored_by": 233045,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.35,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/75914.jpg"
+    },
+    {
+        "id": 578,
+        "title": "Hotaru no Haka",
+        "scored_by": 396793,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.51,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/75808.jpg"
+    },
+    {
+        "id": 584,
+        "title": "Noein: Mou Hitori no Kimi e",
+        "scored_by": 30013,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.57,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1/584.jpg"
+    },
+    {
+        "id": 585,
+        "title": "Mimi wo Sumaseba",
+        "scored_by": 202198,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.22,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1764/138714.jpg"
+    },
+    {
+        "id": 586,
+        "title": "Ayakashi: Japanese Classic Horror",
+        "scored_by": 25590,
+        "type": "TV",
+        "episodes": 11,
+        "score": 7.38,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/11746.jpg"
+    },
+    {
+        "id": 587,
+        "title": "Hanbun no Tsuki ga Noboru Sora",
+        "scored_by": 48591,
+        "type": "TV",
+        "episodes": 6,
+        "score": 7.46,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/75201.jpg"
+    },
+    {
+        "id": 591,
+        "title": "Amaenaide yo!!",
+        "scored_by": 35659,
+        "type": "TV",
+        "episodes": 12,
+        "score": 6.44,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/32071.jpg"
+    },
+    {
+        "id": 594,
+        "title": "Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!",
+        "scored_by": 50282,
+        "type": "Special",
+        "episodes": 1,
+        "score": 6.76,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/20921.jpg"
+    },
+    {
+        "id": 596,
+        "title": "Chobits: Chibits",
+        "scored_by": 26862,
+        "type": "Special",
+        "episodes": 1,
+        "score": 6.97,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/34375.jpg"
+    },
+    {
+        "id": 597,
+        "title": "Neko no Ongaeshi",
+        "scored_by": 170238,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.72,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1176/138720.jpg"
+    },
+    {
+        "id": 601,
+        "title": "Nekojiru-sou",
+        "scored_by": 37747,
+        "type": "OVA",
+        "episodes": 1,
+        "score": 7.32,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/84241.jpg"
+    },
+    {
+        "id": 617,
+        "title": "Juubee Ninpuuchou",
+        "scored_by": 69274,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.61,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1834/116568.jpg"
+    },
+    {
+        "id": 627,
+        "title": "Major S1",
+        "scored_by": 50898,
+        "type": "TV",
+        "episodes": 26,
+        "score": 8.21,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/73973.jpg"
+    },
+    {
+        "id": 634,
+        "title": "Koi Kaze",
+        "scored_by": 30224,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.02,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/61441.jpg"
+    },
+    {
+        "id": 650,
+        "title": "Gunsmith Cats",
+        "scored_by": 23356,
+        "type": "OVA",
+        "episodes": 3,
+        "score": 7.37,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/2769.jpg"
+    },
+    {
+        "id": 656,
+        "title": "Air in Summer",
+        "scored_by": 24113,
+        "type": "Special",
+        "episodes": 2,
+        "score": 7.29,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/82726.jpg"
+    },
+    {
+        "id": 658,
+        "title": "Touhai Densetsu Akagi: Yami ni Maiorita Tensai",
+        "scored_by": 44219,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.92,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/53587.jpg"
+    },
+    {
+        "id": 659,
+        "title": "Azumanga Daiou: Gekijou Tanpen",
+        "scored_by": 23911,
+        "type": "Special",
+        "episodes": 1,
+        "score": 7.04,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1147/133613.jpg"
+    },
+    {
+        "id": 665,
+        "title": "JoJo no Kimyou na Bouken: Adventure",
+        "scored_by": 35670,
+        "type": "OVA",
+        "episodes": 7,
+        "score": 7.22,
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/53147.jpg"
+    },
+    {
+        "id": 666,
+        "title": "JoJo no Kimyou na Bouken",
+        "scored_by": 56914,
+        "type": "OVA",
+        "episodes": 6,
+        "score": 7.46,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1171/106036.jpg"
+    },
+    {
+        "id": 667,
+        "title": "Kashimashi: Girl Meets Girl",
+        "scored_by": 23417,
+        "type": "TV",
+        "episodes": 12,
+        "score": 6.63,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/19498.jpg"
+    },
+    {
+        "id": 687,
+        "title": "Tokyo Mew Mew",
+        "scored_by": 74496,
+        "type": "TV",
+        "episodes": 52,
+        "score": 7.09,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/89298.jpg"
+    },
+    {
+        "id": 696,
+        "title": "Tenchi Muyou!",
+        "scored_by": 34531,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.42,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/61663.jpg"
+    },
+    {
+        "id": 710,
+        "title": "Rec",
+        "scored_by": 57695,
+        "type": "TV",
+        "episodes": 9,
+        "score": 7.28,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1940/124243.jpg"
+    },
+    {
+        "id": 713,
+        "title": "Air Movie",
+        "scored_by": 32718,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.22,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/26507.jpg"
+    },
+    {
+        "id": 721,
+        "title": "Princess Tutu",
+        "scored_by": 65425,
+        "type": "TV",
+        "episodes": 38,
+        "score": 8.14,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1145/93646.jpg"
+    },
+    {
+        "id": 731,
+        "title": "Interstella5555: The 5tory of The 5ecret 5tar 5ystem",
+        "scored_by": 43390,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.13,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/82786.jpg"
+    },
+    {
+        "id": 732,
+        "title": "Vampire Hunter D",
+        "scored_by": 46591,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.0,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1825/137673.jpg"
+    },
+    {
+        "id": 738,
+        "title": "MÄR",
+        "scored_by": 21463,
+        "type": "TV",
+        "episodes": 102,
+        "score": 7.25,
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/38383.jpg"
+    },
+    {
+        "id": 740,
+        "title": "Bishoujo Senshi Sailor Moon R",
+        "scored_by": 86214,
+        "type": "TV",
+        "episodes": 43,
+        "score": 7.72,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1/740.jpg"
+    },
+    {
+        "id": 741,
+        "title": "Sensitive Pornograph",
+        "scored_by": 26344,
+        "type": "OVA",
+        "episodes": 1,
+        "score": 6.65,
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/27084.jpg"
+    },
+    {
+        "id": 743,
+        "title": "Umi ga Kikoeru",
+        "scored_by": 74454,
+        "type": "TV Special",
+        "episodes": 1,
+        "score": 6.54,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1498/131411.jpg"
+    },
+    {
+        "id": 746,
+        "title": "Papa to Kiss in the Dark",
+        "scored_by": 29000,
+        "type": "OVA",
+        "episodes": 2,
+        "score": 5.86,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/11100.jpg"
+    },
+    {
+        "id": 759,
+        "title": "Tokyo Godfathers",
+        "scored_by": 145264,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.28,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1480/132791.jpg"
+    },
+    {
+        "id": 761,
+        "title": "Naruto: Akaki Yotsuba no Clover wo Sagase",
+        "scored_by": 46688,
+        "type": "Special",
+        "episodes": 1,
+        "score": 6.57,
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/11240.jpg"
+    },
+    {
+        "id": 762,
+        "title": "Bleach: Memories in the Rain",
+        "scored_by": 70202,
+        "type": "Special",
+        "episodes": 1,
+        "score": 7.17,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1022/129092.jpg"
+    },
+    {
+        "id": 763,
+        "title": "Zoids",
+        "scored_by": 25870,
+        "type": "TV",
+        "episodes": 67,
+        "score": 7.36,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1908/139655.jpg"
+    },
+    {
+        "id": 770,
+        "title": "Pale Cocoon",
+        "scored_by": 34807,
+        "type": "OVA",
+        "episodes": 1,
+        "score": 7.27,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/3211.jpg"
+    },
+    {
+        "id": 777,
+        "title": "Hellsing Ultimate",
+        "scored_by": 478242,
+        "type": "OVA",
+        "episodes": 10,
+        "score": 8.35,
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/7333.jpg"
+    },
+    {
+        "id": 779,
+        "title": "Meitantei Conan Movie 01: Tokei Jikake no Matenrou",
+        "scored_by": 44494,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.86,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/77131.jpg"
+    },
+    {
+        "id": 780,
+        "title": "Meitantei Conan Movie 02: 14-banme no Target",
+        "scored_by": 38893,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.88,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1900/94316.jpg"
+    },
+    {
+        "id": 781,
+        "title": "Meitantei Conan Movie 03: Seikimatsu no Majutsushi",
+        "scored_by": 39679,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.03,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1831/94317.jpg"
+    },
+    {
+        "id": 790,
+        "title": "Ergo Proxy",
+        "scored_by": 237585,
+        "type": "TV",
+        "episodes": 23,
+        "score": 7.9,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1183/136187.jpg"
+    },
+    {
+        "id": 793,
+        "title": "xxxHOLiC Movie: Manatsu no Yoru no Yume",
+        "scored_by": 33784,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.93,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1482/107802.jpg"
+    },
+    {
+        "id": 801,
+        "title": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+        "scored_by": 103482,
+        "type": "TV",
+        "episodes": 26,
+        "score": 8.52,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1646/135390.jpg"
+    },
+    {
+        "id": 807,
+        "title": "Tsubasa Chronicle: Tori Kago no Kuni no Himegimi",
+        "scored_by": 23514,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.3,
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/45953.jpg"
+    },
+    {
+        "id": 813,
+        "title": "Dragon Ball Z",
+        "scored_by": 836081,
+        "type": "TV",
+        "episodes": 291,
+        "score": 8.17,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1607/117271.jpg"
+    },
+    {
+        "id": 819,
+        "title": "Boku wa Imouto ni Koi wo Suru",
+        "scored_by": 24051,
+        "type": "OVA",
+        "episodes": 1,
+        "score": 6.2,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1178/121937.jpg"
+    },
+    {
+        "id": 820,
+        "title": "Ginga Eiyuu Densetsu",
+        "scored_by": 78140,
+        "type": "OVA",
+        "episodes": 110,
+        "score": 9.02,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/13225.jpg"
+    },
+    {
+        "id": 822,
+        "title": "Initial D Extra Stage",
+        "scored_by": 30939,
+        "type": "OVA",
+        "episodes": 2,
+        "score": 7.31,
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/13169.jpg"
+    },
+    {
+        "id": 834,
+        "title": "Bleach: The Sealed Sword Frenzy",
+        "scored_by": 63791,
+        "type": "Special",
+        "episodes": 1,
+        "score": 6.97,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1/834.jpg"
+    },
+    {
+        "id": 845,
+        "title": "Kiba",
+        "scored_by": 33097,
+        "type": "TV",
+        "episodes": 51,
+        "score": 7.28,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1522/114250.jpg"
+    },
+    {
+        "id": 846,
+        "title": "School Rumble Ni Gakki",
+        "scored_by": 91439,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.98,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/75490.jpg"
+    },
+    {
+        "id": 849,
+        "title": "Suzumiya Haruhi no Yuuutsu",
+        "scored_by": 476081,
+        "type": "TV",
+        "episodes": 14,
+        "score": 7.83,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1470/137929.jpg"
+    },
+    {
+        "id": 850,
+        "title": "Gakuen Heaven",
+        "scored_by": 31569,
+        "type": "TV",
+        "episodes": 13,
+        "score": 6.46,
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/70143.jpg"
+    },
+    {
+        "id": 853,
+        "title": "Ouran Koukou Host Club",
+        "scored_by": 673553,
+        "type": "TV",
+        "episodes": 26,
+        "score": 8.16,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/71992.jpg"
+    },
+    {
+        "id": 855,
+        "title": "Strawberry Panic",
+        "scored_by": 58064,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.27,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1699/110686.jpg"
+    },
+    {
+        "id": 856,
+        "title": "Utawarerumono",
+        "scored_by": 65595,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.62,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1119/118609.jpg"
+    },
+    {
+        "id": 857,
+        "title": "Air Gear",
+        "scored_by": 179663,
+        "type": "TV",
+        "episodes": 25,
+        "score": 7.49,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/18227.jpg"
+    },
+    {
+        "id": 859,
+        "title": "Digimon Savers",
+        "scored_by": 51530,
+        "type": "TV",
+        "episodes": 48,
+        "score": 6.95,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1415/100541.jpg"
+    },
+    {
+        "id": 860,
+        "title": "Makai Senki Disgaea",
+        "scored_by": 20391,
+        "type": "TV",
+        "episodes": 12,
+        "score": 6.71,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/20439.jpg"
+    },
+    {
+        "id": 861,
+        "title": "xxxHOLiC",
+        "scored_by": 120749,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.98,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/21858.jpg"
+    },
+    {
+        "id": 873,
+        "title": ".hack//Roots",
+        "scored_by": 35171,
+        "type": "TV",
+        "episodes": 26,
+        "score": 6.86,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/13050.jpg"
+    },
+    {
+        "id": 874,
+        "title": "Digimon Tamers",
+        "scored_by": 122947,
+        "type": "TV",
+        "episodes": 51,
+        "score": 7.64,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/73696.jpg"
+    },
+    {
+        "id": 875,
+        "title": "Mind Game",
+        "scored_by": 31720,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.78,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1861/112656.jpg"
+    },
+    {
+        "id": 877,
+        "title": "Nana",
+        "scored_by": 249526,
+        "type": "TV",
+        "episodes": 47,
+        "score": 8.55,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/11232.jpg"
+    },
+    {
+        "id": 880,
+        "title": "Aa! Megami-sama! Sorezore no Tsubasa",
+        "scored_by": 35267,
+        "type": "TV",
+        "episodes": 22,
+        "score": 7.54,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/78931.jpg"
+    },
+    {
+        "id": 885,
+        "title": "Tenshi no Tamago",
+        "scored_by": 58381,
+        "type": "OVA",
+        "episodes": 1,
+        "score": 7.71,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/63181.jpg"
+    },
+    {
+        "id": 886,
+        "title": "Amaenaide yo!! Katsu!!",
+        "scored_by": 26376,
+        "type": "TV",
+        "episodes": 12,
+        "score": 6.64,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/15153.jpg"
+    },
+    {
+        "id": 889,
+        "title": "Black Lagoon",
+        "scored_by": 488586,
+        "type": "TV",
+        "episodes": 12,
+        "score": 8.03,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1906/121592.jpg"
+    },
+    {
+        "id": 891,
+        "title": "Dragon Ball Movie 2: Majinjou no Nemurihime",
+        "scored_by": 34869,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 6.73,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1220/121989.jpg"
+    },
+    {
+        "id": 892,
+        "title": "Dragon Ball Movie 3: Makafushigi Daibouken",
+        "scored_by": 30847,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 6.82,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1825/90341.jpg"
+    },
+    {
+        "id": 893,
+        "title": "Dragon Ball Movie 4: Saikyou e no Michi",
+        "scored_by": 32699,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.13,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1497/93677.jpg"
+    },
+    {
+        "id": 894,
+        "title": "Dragon Ball Z Movie 01: Ora no Gohan wo Kaese!!",
+        "scored_by": 76193,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 6.63,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1258/90343.jpg"
+    },
+    {
+        "id": 895,
+        "title": "Dragon Ball Z Movie 02: Kono Yo de Ichiban Tsuyoi Yatsu",
+        "scored_by": 68883,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 6.58,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1017/90344.jpg"
+    },
+    {
+        "id": 896,
+        "title": "Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen",
+        "scored_by": 84265,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 6.69,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1956/90345.jpg"
+    },
+    {
+        "id": 897,
+        "title": "Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu",
+        "scored_by": 73190,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 6.54,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1620/93667.jpg"
+    },
+    {
+        "id": 898,
+        "title": "Dragon Ball Z Movie 05: Tobikkiri no Saikyou tai Saikyou",
+        "scored_by": 93538,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.06,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1113/121523.jpg"
+    },
+    {
+        "id": 899,
+        "title": "Dragon Ball Z Movie 06: Gekitotsu!! 100-oku Power no Senshi-tachi",
+        "scored_by": 79871,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 6.79,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1007/93669.jpg"
+    },
+    {
+        "id": 900,
+        "title": "Dragon Ball Z Movie 07: Kyokugen Battle!! Sandai Super Saiyajin",
+        "scored_by": 76121,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 6.83,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1723/93670.jpg"
+    },
+    {
+        "id": 901,
+        "title": "Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen",
+        "scored_by": 103288,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.31,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1451/121524.jpg"
+    },
+    {
+        "id": 902,
+        "title": "Dragon Ball Z Movie 09: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu",
+        "scored_by": 75417,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.11,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1730/93672.jpg"
+    },
+    {
+        "id": 903,
+        "title": "Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai",
+        "scored_by": 82771,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 6.76,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1191/93673.jpg"
+    },
+    {
+        "id": 904,
+        "title": "Dragon Ball Z Movie 11: Super Senshi Gekiha!! Katsu no wa Ore da",
+        "scored_by": 76255,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 5.78,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1035/93674.jpg"
+    },
+    {
+        "id": 905,
+        "title": "Dragon Ball Z Movie 12: Fukkatsu no Fusion!! Gokuu to Vegeta",
+        "scored_by": 97258,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.59,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1015/93675.jpg"
+    },
+    {
+        "id": 906,
+        "title": "Dragon Ball Z Movie 13: Ryuuken Bakuhatsu!! Gokuu ga Yaraneba Dare ga Yaru",
+        "scored_by": 81368,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.35,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1704/93676.jpg"
+    },
+    {
+        "id": 907,
+        "title": "Princess Princess",
+        "scored_by": 29291,
+        "type": "TV",
+        "episodes": 12,
+        "score": 6.97,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/75530.jpg"
+    },
+    {
+        "id": 908,
+        "title": "Fullmetal Alchemist: Premium Collection",
+        "scored_by": 34539,
+        "type": "OVA",
+        "episodes": 3,
+        "score": 7.3,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/18689.jpg"
+    },
+    {
+        "id": 916,
+        "title": "Tokkou",
+        "scored_by": 21242,
+        "type": "TV",
+        "episodes": 13,
+        "score": 6.53,
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/18280.jpg"
+    },
+    {
+        "id": 918,
+        "title": "Gintama",
+        "scored_by": 392495,
+        "type": "TV",
+        "episodes": 201,
+        "score": 8.94,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/73274.jpg"
+    },
+    {
+        "id": 934,
+        "title": "Higurashi no Naku Koro ni",
+        "scored_by": 392343,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.88,
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/19634.jpg"
+    },
+    {
+        "id": 935,
+        "title": "Witchblade",
+        "scored_by": 47608,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.21,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1/935.jpg"
+    },
+    {
+        "id": 936,
+        "title": "Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!",
+        "scored_by": 137335,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 6.88,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1114/134485.jpg"
+    },
+    {
+        "id": 940,
+        "title": "Inukami!",
+        "scored_by": 28812,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.23,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1405/110246.jpg"
+    },
+    {
+        "id": 949,
+        "title": "Top wo Nerae! Gunbuster",
+        "scored_by": 52913,
+        "type": "OVA",
+        "episodes": 6,
+        "score": 7.87,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1303/92309.jpg"
+    },
+    {
+        "id": 953,
+        "title": "Juu Ou Sei",
+        "scored_by": 32402,
+        "type": "TV",
+        "episodes": 11,
+        "score": 7.2,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/14079.jpg"
+    },
+    {
+        "id": 957,
+        "title": "Saiunkoku Monogatari",
+        "scored_by": 35194,
+        "type": "TV",
+        "episodes": 39,
+        "score": 7.89,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1976/139963.jpg"
+    },
+    {
+        "id": 962,
+        "title": "Aria the Natural",
+        "scored_by": 29494,
+        "type": "TV",
+        "episodes": 26,
+        "score": 8.17,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/77621.jpg"
+    },
+    {
+        "id": 963,
+        "title": "Love Hina: Motoko no Sentaku, Koi ka Ken... \"Naku na\"",
+        "scored_by": 22066,
+        "type": "Special",
+        "episodes": 1,
+        "score": 7.21,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/82631.jpg"
+    },
+    {
+        "id": 967,
+        "title": "Hokuto no Ken",
+        "scored_by": 44334,
+        "type": "TV",
+        "episodes": 109,
+        "score": 7.96,
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/18502.jpg"
+    },
+    {
+        "id": 969,
+        "title": "Tsubasa Chronicle 2nd Season",
+        "scored_by": 59095,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.58,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/6554.jpg"
+    },
+    {
+        "id": 974,
+        "title": "Dead Leaves",
+        "scored_by": 41383,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.21,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1827/112657.jpg"
+    },
+    {
+        "id": 984,
+        "title": "Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku",
+        "scored_by": 26842,
+        "type": "OVA",
+        "episodes": 2,
+        "score": 6.72,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1021/116787.jpg"
+    },
+    {
+        "id": 985,
+        "title": "Dragon Ball Z Special 2: Zetsubou e no Hankou!! Nokosareta Chousenshi - Gohan to Trunks",
+        "scored_by": 70597,
+        "type": "TV Special",
+        "episodes": 1,
+        "score": 7.78,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/10207.jpg"
+    },
+    {
+        "id": 986,
+        "title": "Dragon Ball Z Special 1: Tatta Hitori no Saishuu Kessen",
+        "scored_by": 66887,
+        "type": "TV Special",
+        "episodes": 1,
+        "score": 7.56,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1978/138488.jpg"
+    },
+    {
+        "id": 987,
+        "title": "Dragon Ball GT: Gokuu Gaiden! Yuuki no Akashi wa Suushinchuu",
+        "scored_by": 45939,
+        "type": "Special",
+        "episodes": 1,
+        "score": 6.55,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1128/121990.jpg"
+    },
+    {
+        "id": 990,
+        "title": "Kamisama Kazoku",
+        "scored_by": 22179,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.1,
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/2566.jpg"
+    },
+    {
+        "id": 995,
+        "title": "Tennis no Oujisama: Zenkoku Taikai-hen",
+        "scored_by": 25267,
+        "type": "OVA",
+        "episodes": 13,
+        "score": 7.88,
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/10572.jpg"
+    },
+    {
+        "id": 996,
+        "title": "Bishoujo Senshi Sailor Moon: Sailor Stars",
+        "scored_by": 56455,
+        "type": "TV",
+        "episodes": 34,
+        "score": 7.95,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1645/105992.jpg"
+    },
+    {
+        "id": 997,
+        "title": "Bishoujo Senshi Sailor Moon S: Kaguya-hime no Koibito",
+        "scored_by": 28771,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.69,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1601/98566.jpg"
+    },
+    {
+        "id": 1002,
+        "title": "Top wo Nerae 2! Diebuster",
+        "scored_by": 36166,
+        "type": "OVA",
+        "episodes": 6,
+        "score": 7.62,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/50475.jpg"
+    },
+    {
+        "id": 1004,
+        "title": "Kanojo to Kanojo no Neko",
+        "scored_by": 53915,
+        "type": "OVA",
+        "episodes": 1,
+        "score": 7.27,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/73498.jpg"
+    },
+    {
+        "id": 1015,
+        "title": "Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi",
+        "scored_by": 40745,
+        "type": "Special",
+        "episodes": 1,
+        "score": 7.65,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/23458.jpg"
+    },
+    {
+        "id": 1016,
+        "title": "Gunnm",
+        "scored_by": 28371,
+        "type": "OVA",
+        "episodes": 2,
+        "score": 7.07,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/41257.jpg"
+    },
+    {
+        "id": 1023,
+        "title": "Wolf's Rain OVA",
+        "scored_by": 34748,
+        "type": "OVA",
+        "episodes": 4,
+        "score": 7.99,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1091/134883.jpg"
+    },
+    {
+        "id": 1029,
+        "title": "Omoide Poroporo",
+        "scored_by": 75078,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.44,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1289/138708.jpg"
+    },
+    {
+        "id": 1030,
+        "title": "Heisei Tanuki Gassen Ponpoko",
+        "scored_by": 62196,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.3,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1962/138712.jpg"
+    },
+    {
+        "id": 1033,
+        "title": "Sennen Joyuu",
+        "scored_by": 83470,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.25,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1648/93626.jpg"
+    },
+    {
+        "id": 1050,
+        "title": "Bobobo-bo Bo-bobo",
+        "scored_by": 38840,
+        "type": "TV",
+        "episodes": 76,
+        "score": 7.49,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1293/136965.jpg"
+    },
+    {
+        "id": 1051,
+        "title": "Ao no 6-gou",
+        "scored_by": 23420,
+        "type": "OVA",
+        "episodes": 4,
+        "score": 7.0,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/20750.jpg"
+    },
+    {
+        "id": 1060,
+        "title": "Oruchuban Ebichu",
+        "scored_by": 20041,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.37,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/79591.jpg"
+    },
+    {
+        "id": 1074,
+        "title": "Naruto Narutimate Hero 3: Tsuini Gekitotsu! Jounin vs. Genin!! Musabetsu Dairansen Taikai Kaisai!!",
+        "scored_by": 42171,
+        "type": "OVA",
+        "episodes": 1,
+        "score": 6.78,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/11244.jpg"
+    },
+    {
+        "id": 1088,
+        "title": "Macross",
+        "scored_by": 36410,
+        "type": "TV",
+        "episodes": 36,
+        "score": 7.89,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1553/137717.jpg"
+    },
+    {
+        "id": 1089,
+        "title": "Macross: Do You Remember Love?",
+        "scored_by": 22530,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.94,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1080/107017.jpg"
+    },
+    {
+        "id": 1090,
+        "title": "Kidou Senshi Gundam I",
+        "scored_by": 25665,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.24,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1915/128896.jpg"
+    },
+    {
+        "id": 1091,
+        "title": "Kidou Senshi Gundam II: Ai Senshi-hen",
+        "scored_by": 21248,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.33,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/75773.jpg"
+    },
+    {
+        "id": 1092,
+        "title": "Kidou Senshi Gundam III: Meguriai Sora-hen",
+        "scored_by": 20361,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.74,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/75774.jpg"
+    },
+    {
+        "id": 1107,
+        "title": "Youjuu Toshi",
+        "scored_by": 21752,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 6.44,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/50021.jpg"
+    },
+    {
+        "id": 1110,
+        "title": "Mermaid Melody Pichi Pichi Pitch Pure",
+        "scored_by": 23852,
+        "type": "TV",
+        "episodes": 39,
+        "score": 7.2,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/9778.jpg"
+    },
+    {
+        "id": 1117,
+        "title": "Pokemon Movie 02: Maboroshi no Pokemon Lugia Bakutan",
+        "scored_by": 124059,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.34,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/41801.jpg"
+    },
+    {
+        "id": 1118,
+        "title": "Pokemon Movie 03: Kesshoutou no Teiou Entei",
+        "scored_by": 114581,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.08,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/80288.jpg"
+    },
+    {
+        "id": 1119,
+        "title": "Pokemon Movie 04: Celebi Toki wo Koeta Deai",
+        "scored_by": 97825,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 6.9,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/41799.jpg"
+    },
+    {
+        "id": 1120,
+        "title": "Pokemon Movie 05: Mizu no Miyako no Mamorigami Latias to Latios",
+        "scored_by": 75133,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.15,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/21317.jpg"
+    },
+    {
+        "id": 1121,
+        "title": "Pokemon Movie 06: Nanayo no Negaiboshi Jirachi",
+        "scored_by": 60620,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 6.74,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/75733.jpg"
+    },
+    {
+        "id": 1122,
+        "title": "Pokemon Movie 07: Rekkuu no Houmonsha Deoxys",
+        "scored_by": 71358,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 6.96,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/21313.jpg"
+    },
+    {
+        "id": 1132,
+        "title": "Digimon Frontier",
+        "scored_by": 96347,
+        "type": "TV",
+        "episodes": 50,
+        "score": 7.16,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1048/117727.jpg"
+    },
+    {
+        "id": 1138,
+        "title": "Medarot",
+        "scored_by": 32811,
+        "type": "TV",
+        "episodes": 52,
+        "score": 7.08,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1778/133514.jpg"
+    },
+    {
+        "id": 1140,
+        "title": "Giniro no Kami no Agito",
+        "scored_by": 35698,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.05,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/83824.jpg"
+    },
+    {
+        "id": 1142,
+        "title": "Hachimitsu to Clover II",
+        "scored_by": 54093,
+        "type": "TV",
+        "episodes": 12,
+        "score": 8.19,
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/11040.jpg"
+    },
+    {
+        "id": 1172,
+        "title": "Slayers Try",
+        "scored_by": 29662,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.81,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1262/139054.jpg"
+    },
+    {
+        "id": 1195,
+        "title": "Zero no Tsukaima",
+        "scored_by": 461167,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.22,
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/20680.jpg"
+    },
+    {
+        "id": 1210,
+        "title": "NHK ni Youkoso!",
+        "scored_by": 332247,
+        "type": "TV",
+        "episodes": 24,
+        "score": 8.31,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/52675.jpg"
+    },
+    {
+        "id": 1212,
+        "title": "Oban Star-Racers",
+        "scored_by": 24800,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.51,
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/3702.jpg"
+    },
+    {
+        "id": 1218,
+        "title": "Tonagura!",
+        "scored_by": 23006,
+        "type": "TV",
+        "episodes": 13,
+        "score": 6.69,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1/1218.jpg"
+    },
+    {
+        "id": 1222,
+        "title": "Bokura ga Ita",
+        "scored_by": 99617,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.25,
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/25754.jpg"
+    },
+    {
+        "id": 1239,
+        "title": "Bishoujo Senshi Sailor Moon SuperS",
+        "scored_by": 60902,
+        "type": "TV",
+        "episodes": 39,
+        "score": 7.63,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1600/92253.jpg"
+    },
+    {
+        "id": 1240,
+        "title": "Bishoujo Senshi Sailor Moon SuperS: Sailor 9 Senshi Shuuketsu! Black Dream Hole no Kiseki",
+        "scored_by": 21703,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.55,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1952/117493.jpg"
+    },
+    {
+        "id": 1250,
+        "title": "Erementar Gerad",
+        "scored_by": 44728,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.24,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/79163.jpg"
+    },
+    {
+        "id": 1253,
+        "title": "Saint Seiya: Meiou Hades Meikai-hen",
+        "scored_by": 30951,
+        "type": "OVA",
+        "episodes": 12,
+        "score": 7.75,
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/75732.jpg"
+    },
+    {
+        "id": 1254,
+        "title": "Saint Seiya",
+        "scored_by": 101037,
+        "type": "TV",
+        "episodes": 114,
+        "score": 7.75,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1180/133782.jpg"
+    },
+    {
+        "id": 1257,
+        "title": "Saint Seiya: Meiou Hades Juuni Kyuu-hen",
+        "scored_by": 35068,
+        "type": "OVA",
+        "episodes": 13,
+        "score": 8.05,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1182/122016.jpg"
+    },
+    {
+        "id": 1281,
+        "title": "Gakkou no Kaidan",
+        "scored_by": 88963,
+        "type": "TV",
+        "episodes": 19,
+        "score": 7.74,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1414/112029.jpg"
+    },
+    {
+        "id": 1292,
+        "title": "Afro Samurai",
+        "scored_by": 200108,
+        "type": "TV",
+        "episodes": 5,
+        "score": 7.36,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/15874.jpg"
+    },
+    {
+        "id": 1303,
+        "title": "The Animatrix",
+        "scored_by": 44557,
+        "type": "OVA",
+        "episodes": 9,
+        "score": 7.3,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/75870.jpg"
+    },
+    {
+        "id": 1311,
+        "title": "Chobits Recap",
+        "scored_by": 20316,
+        "type": "Special",
+        "episodes": 1,
+        "score": 6.94,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/22857.jpg"
+    },
+    {
+        "id": 1313,
+        "title": "Digimon Adventure 02",
+        "scored_by": 142750,
+        "type": "TV",
+        "episodes": 50,
+        "score": 7.23,
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/20360.jpg"
+    },
+    {
+        "id": 1361,
+        "title": "Final Fantasy: The Spirits Within",
+        "scored_by": 49009,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 6.31,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/51625.jpg"
+    },
+    {
+        "id": 1363,
+        "title": "Meitantei Conan Movie 04: Hitomi no Naka no Ansatsusha",
+        "scored_by": 37040,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.03,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1196/94319.jpg"
+    },
+    {
+        "id": 1364,
+        "title": "Meitantei Conan Movie 05: Tengoku e no Countdown",
+        "scored_by": 37686,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.12,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1144/92654.jpg"
+    },
+    {
+        "id": 1365,
+        "title": "Meitantei Conan Movie 06: Baker Street no Bourei",
+        "scored_by": 46371,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.3,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1400/94320.jpg"
+    },
+    {
+        "id": 1366,
+        "title": "Meitantei Conan Movie 07: Meikyuu no Crossroad",
+        "scored_by": 30474,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.8,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/20984.jpg"
+    },
+    {
+        "id": 1367,
+        "title": "Meitantei Conan Movie 08: Ginyoku no Magician",
+        "scored_by": 32906,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.06,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/20982.jpg"
+    },
+    {
+        "id": 1379,
+        "title": "Kino no Tabi: The Beautiful World - Nanika wo Suru Tame ni - Life Goes On.",
+        "scored_by": 24879,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.74,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/73888.jpg"
+    },
+    {
+        "id": 1412,
+        "title": "Lupin III",
+        "scored_by": 31407,
+        "type": "TV",
+        "episodes": 23,
+        "score": 7.63,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/15625.jpg"
+    },
+    {
+        "id": 1430,
+        "title": "Lupin III: Cagliostro no Shiro",
+        "scored_by": 72750,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.15,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/26182.jpg"
+    },
+    {
+        "id": 1462,
+        "title": "Memories",
+        "scored_by": 47270,
+        "type": "Movie",
+        "episodes": 3,
+        "score": 7.71,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/74781.jpg"
+    },
+    {
+        "id": 1469,
+        "title": "Monster Farm: Enbanseki no Himitsu",
+        "scored_by": 23265,
+        "type": "TV",
+        "episodes": 48,
+        "score": 6.79,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1044/113641.jpg"
+    },
+    {
+        "id": 1470,
+        "title": "City Hunter",
+        "scored_by": 23659,
+        "type": "TV",
+        "episodes": 51,
+        "score": 7.91,
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/20587.jpg"
+    },
+    {
+        "id": 1482,
+        "title": "D.Gray-man",
+        "scored_by": 285352,
+        "type": "TV",
+        "episodes": 103,
+        "score": 8.01,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/75194.jpg"
+    },
+    {
+        "id": 1486,
+        "title": "Kodomo no Omocha (TV)",
+        "scored_by": 27116,
+        "type": "TV",
+        "episodes": 102,
+        "score": 8.06,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/7016.jpg"
+    },
+    {
+        "id": 1498,
+        "title": "Black Blood Brothers",
+        "scored_by": 55265,
+        "type": "TV",
+        "episodes": 12,
+        "score": 7.09,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/13804.jpg"
+    },
+    {
+        "id": 1505,
+        "title": "Meitantei Conan Movie 09: Suihei Senjou no Strategy",
+        "scored_by": 28735,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.79,
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/20983.jpg"
+    },
+    {
+        "id": 1506,
+        "title": "Meitantei Conan Movie 10: Tantei-tachi no Requiem",
+        "scored_by": 32161,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.03,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1919/94322.jpg"
+    },
+    {
+        "id": 1519,
+        "title": "Black Lagoon: The Second Barrage",
+        "scored_by": 315130,
+        "type": "TV",
+        "episodes": 12,
+        "score": 8.17,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/83748.jpg"
+    },
+    {
+        "id": 1526,
+        "title": "Pokemon Movie 08: Mew to Hadou no Yuusha Lucario",
+        "scored_by": 73649,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.32,
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/79257.jpg"
+    },
+    {
+        "id": 1530,
+        "title": "Kanon (2006)",
+        "scored_by": 136196,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.95,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1362/128746.jpg"
+    },
+    {
+        "id": 1532,
+        "title": "Suki na Mono wa Suki Dakara Shou ga Nai!!",
+        "scored_by": 23381,
+        "type": "TV",
+        "episodes": 12,
+        "score": 6.63,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/85449.jpg"
+    },
+    {
+        "id": 1535,
+        "title": "Death Note",
+        "scored_by": 2710726,
+        "type": "TV",
+        "episodes": 37,
+        "score": 8.62,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg"
+    },
+    {
+        "id": 1536,
+        "title": "Busou Renkin",
+        "scored_by": 80297,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.3,
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/75566.jpg"
+    },
+    {
+        "id": 1546,
+        "title": "Negima!?",
+        "scored_by": 36637,
+        "type": "TV",
+        "episodes": 26,
+        "score": 6.94,
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/73997.jpg"
+    },
+    {
+        "id": 1559,
+        "title": "Shijou Saikyou no Deshi Kenichi",
+        "scored_by": 156795,
+        "type": "TV",
+        "episodes": 50,
+        "score": 8.05,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/75515.jpg"
+    },
+    {
+        "id": 1562,
+        "title": "Yamato Nadeshiko Shichihenge♥",
+        "scored_by": 81780,
+        "type": "TV",
+        "episodes": 25,
+        "score": 7.72,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/7701.jpg"
+    },
+    {
+        "id": 1564,
+        "title": "Pokemon Advanced Generation",
+        "scored_by": 116230,
+        "type": "TV",
+        "episodes": 192,
+        "score": 7.12,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1759/97378.jpg"
+    },
+    {
+        "id": 1565,
+        "title": "Pokemon Diamond & Pearl",
+        "scored_by": 89768,
+        "type": "TV",
+        "episodes": 191,
+        "score": 7.28,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/25749.jpg"
+    },
+    {
+        "id": 1566,
+        "title": "Koukaku Kidoutai: Stand Alone Complex - Solid State Society",
+        "scored_by": 47286,
+        "type": "TV Special",
+        "episodes": 1,
+        "score": 8.1,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/29816.jpg"
+    },
+    {
+        "id": 1568,
+        "title": "Sumomomo Momomo: Chijou Saikyou no Yome",
+        "scored_by": 24740,
+        "type": "TV",
+        "episodes": 22,
+        "score": 6.84,
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/2357.jpg"
+    },
+    {
+        "id": 1569,
+        "title": "Otome wa Boku ni Koishiteru",
+        "scored_by": 26280,
+        "type": "TV",
+        "episodes": 12,
+        "score": 7.03,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/75483.jpg"
+    },
+    {
+        "id": 1571,
+        "title": "Ghost Hunt",
+        "scored_by": 100365,
+        "type": "TV",
+        "episodes": 25,
+        "score": 7.75,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/73908.jpg"
+    },
+    {
+        "id": 1575,
+        "title": "Code Geass: Hangyaku no Lelouch",
+        "scored_by": 1385178,
+        "type": "TV",
+        "episodes": 25,
+        "score": 8.7,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1032/135088.jpg"
+    },
+    {
+        "id": 1579,
+        "title": "Kiniro no Corda: Primo Passo",
+        "scored_by": 48970,
+        "type": "TV",
+        "episodes": 25,
+        "score": 7.42,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/7228.jpg"
+    },
+    {
+        "id": 1589,
+        "title": "Bartender",
+        "scored_by": 27519,
+        "type": "TV",
+        "episodes": 11,
+        "score": 7.33,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/67397.jpg"
+    },
+    {
+        "id": 1594,
+        "title": "Jigoku Shoujo Futakomori",
+        "scored_by": 67729,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.88,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/86975.jpg"
+    },
+    {
+        "id": 1604,
+        "title": "Katekyou Hitman Reborn!",
+        "scored_by": 259067,
+        "type": "TV",
+        "episodes": 203,
+        "score": 8.13,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/80000.jpg"
+    },
+    {
+        "id": 1606,
+        "title": "Kekkaishi",
+        "scored_by": 50077,
+        "type": "TV",
+        "episodes": 52,
+        "score": 7.59,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/75191.jpg"
+    },
+    {
+        "id": 1614,
+        "title": "Captain Tsubasa: Road to 2002",
+        "scored_by": 36109,
+        "type": "TV",
+        "episodes": 52,
+        "score": 7.45,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/75526.jpg"
+    },
+    {
+        "id": 1639,
+        "title": "Boku no Pico",
+        "scored_by": 121859,
+        "type": "OVA",
+        "episodes": 1,
+        "score": 4.22,
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/39497.jpg"
+    },
+    {
+        "id": 1668,
+        "title": "Bakuten Shoot Beyblade G Revolution",
+        "scored_by": 30100,
+        "type": "TV",
+        "episodes": 52,
+        "score": 6.96,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1237/135138.jpg"
+    },
+    {
+        "id": 1669,
+        "title": "Bakuten Shoot Beyblade 2002",
+        "scored_by": 42620,
+        "type": "TV",
+        "episodes": 51,
+        "score": 6.72,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1230/118855.jpg"
+    },
+    {
+        "id": 1681,
+        "title": "Brave Story",
+        "scored_by": 20097,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.41,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1333/97262.jpg"
+    },
+    {
+        "id": 1686,
+        "title": "Bleach Movie 1: Memories of Nobody",
+        "scored_by": 171741,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.43,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1834/134488.jpg"
+    },
+    {
+        "id": 1689,
+        "title": "Byousoku 5 Centimeter",
+        "scored_by": 557756,
+        "type": "Movie",
+        "episodes": 3,
+        "score": 7.57,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1410/112994.jpg"
+    },
+    {
+        "id": 1690,
+        "title": "Bokura no",
+        "scored_by": 52909,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.61,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1690/97048.jpg"
+    },
+    {
+        "id": 1691,
+        "title": "Kaze no Stigma",
+        "scored_by": 236748,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.17,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1558/100478.jpg"
+    },
+    {
+        "id": 1696,
+        "title": "Murder Princess",
+        "scored_by": 29069,
+        "type": "OVA",
+        "episodes": 6,
+        "score": 6.97,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/19558.jpg"
+    },
+    {
+        "id": 1698,
+        "title": "Nodame Cantabile",
+        "scored_by": 128978,
+        "type": "TV",
+        "episodes": 23,
+        "score": 8.26,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/11986.jpg"
+    },
+    {
+        "id": 1699,
+        "title": "Romeo x Juliet",
+        "scored_by": 74437,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.58,
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/75159.jpg"
+    },
+    {
+        "id": 1709,
+        "title": "Pokemon: Mewtwo! Ware wa Koko ni Ari",
+        "scored_by": 46255,
+        "type": "TV Special",
+        "episodes": 1,
+        "score": 7.07,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/87922.jpg"
+    },
+    {
+        "id": 1719,
+        "title": "Rozen Maiden: Ouvertüre",
+        "scored_by": 34249,
+        "type": "TV Special",
+        "episodes": 2,
+        "score": 7.72,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1/1719.jpg"
+    },
+    {
+        "id": 1722,
+        "title": "Nagasarete Airantou",
+        "scored_by": 44716,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.22,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/75254.jpg"
+    },
+    {
+        "id": 1723,
+        "title": "Clannad Movie",
+        "scored_by": 90991,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.23,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/75650.jpg"
+    },
+    {
+        "id": 1726,
+        "title": "Devil May Cry",
+        "scored_by": 168552,
+        "type": "TV",
+        "episodes": 12,
+        "score": 6.94,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/26417.jpg"
+    },
+    {
+        "id": 1731,
+        "title": "Tales of Symphonia The Animation: Sylvarant-hen",
+        "scored_by": 23005,
+        "type": "OVA",
+        "episodes": 4,
+        "score": 7.14,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/77063.jpg"
+    },
+    {
+        "id": 1735,
+        "title": "Naruto: Shippuuden",
+        "scored_by": 1633997,
+        "type": "TV",
+        "episodes": 500,
+        "score": 8.26,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1565/111305.jpg"
+    },
+    {
+        "id": 1808,
+        "title": "Kamichama Karin",
+        "scored_by": 22295,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.2,
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/76297.jpg"
+    },
+    {
+        "id": 1813,
+        "title": "Genshiken OVA",
+        "scored_by": 29894,
+        "type": "OVA",
+        "episodes": 3,
+        "score": 7.62,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/21672.jpg"
+    },
+    {
+        "id": 1815,
+        "title": "Shakugan no Shana Movie",
+        "scored_by": 30583,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.37,
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/21513.jpg"
+    },
+    {
+        "id": 1816,
+        "title": "Sonic X",
+        "scored_by": 47771,
+        "type": "TV",
+        "episodes": 78,
+        "score": 6.57,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1801/121070.jpg"
+    },
+    {
+        "id": 1818,
+        "title": "Claymore",
+        "scored_by": 324446,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.74,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/21834.jpg"
+    },
+    {
+        "id": 1824,
+        "title": "Hadashi no Gen",
+        "scored_by": 20477,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.77,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1873/98756.jpg"
+    },
+    {
+        "id": 1827,
+        "title": "Seirei no Moribito",
+        "scored_by": 76442,
+        "type": "TV",
+        "episodes": 26,
+        "score": 8.13,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/50337.jpg"
+    },
+    {
+        "id": 1829,
+        "title": "Ged Senki",
+        "scored_by": 87947,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 6.82,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/73443.jpg"
+    },
+    {
+        "id": 1836,
+        "title": "Shuffle! Memories",
+        "scored_by": 23560,
+        "type": "TV",
+        "episodes": 12,
+        "score": 6.53,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/19624.jpg"
+    },
+    {
+        "id": 1840,
+        "title": "Zero no Tsukaima: Futatsuki no Kishi",
+        "scored_by": 307259,
+        "type": "TV",
+        "episodes": 12,
+        "score": 7.4,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/22740.jpg"
+    },
+    {
+        "id": 1842,
+        "title": "Major S3",
+        "scored_by": 43124,
+        "type": "TV",
+        "episodes": 26,
+        "score": 8.22,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/73971.jpg"
+    },
+    {
+        "id": 1852,
+        "title": "Hidamari Sketch",
+        "scored_by": 26629,
+        "type": "TV",
+        "episodes": 12,
+        "score": 7.46,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1893/133786.jpg"
+    },
+    {
+        "id": 1860,
+        "title": "Tokyo Majin Gakuen Kenpucho: Tou",
+        "scored_by": 27590,
+        "type": "TV",
+        "episodes": 14,
+        "score": 7.05,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1894/113730.jpg"
+    },
+    {
+        "id": 1887,
+        "title": "Lucky☆Star",
+        "scored_by": 320166,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.74,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1561/115660.jpg"
+    },
+    {
+        "id": 1889,
+        "title": "Higurashi no Naku Koro ni Kai",
+        "scored_by": 252352,
+        "type": "TV",
+        "episodes": 24,
+        "score": 8.17,
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/14114.jpg"
+    },
+    {
+        "id": 1894,
+        "title": "Yu☆Gi☆Oh! Hikari no Pyramid",
+        "scored_by": 48520,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 6.59,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1404/135902.jpg"
+    },
+    {
+        "id": 1915,
+        "title": "Mahou Shoujo Lyrical Nanoha StrikerS",
+        "scored_by": 26037,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.63,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/14190.jpg"
+    },
+    {
+        "id": 1943,
+        "title": "Paprika",
+        "scored_by": 269649,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.04,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1929/93629.jpg"
+    },
+    {
+        "id": 1953,
+        "title": "Code Geass: Hangyaku no Lelouch Picture Drama",
+        "scored_by": 24075,
+        "type": "Special",
+        "episodes": 9,
+        "score": 6.92,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/23278.jpg"
+    },
+    {
+        "id": 1956,
+        "title": "Ikkitousen: Dragon Destiny",
+        "scored_by": 37281,
+        "type": "TV",
+        "episodes": 12,
+        "score": 6.74,
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/85202.jpg"
+    },
+    {
+        "id": 1965,
+        "title": "Sola",
+        "scored_by": 45529,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.18,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/46119.jpg"
+    },
+    {
+        "id": 2001,
+        "title": "Tengen Toppa Gurren Lagann",
+        "scored_by": 891412,
+        "type": "TV",
+        "episodes": 27,
+        "score": 8.63,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/5123.jpg"
+    },
+    {
+        "id": 2002,
+        "title": "Heroic Age",
+        "scored_by": 46885,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.51,
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/50435.jpg"
+    },
+    {
+        "id": 2006,
+        "title": "Yu☆Gi☆Oh! (Movie)",
+        "scored_by": 29589,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 6.89,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1/2114.jpg"
+    },
+    {
+        "id": 2025,
+        "title": "Darker than Black: Kuro no Keiyakusha",
+        "scored_by": 435112,
+        "type": "TV",
+        "episodes": 25,
+        "score": 8.06,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/19570.jpg"
+    },
+    {
+        "id": 2026,
+        "title": "Hayate no Gotoku!",
+        "scored_by": 97513,
+        "type": "TV",
+        "episodes": 52,
+        "score": 7.51,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/73932.jpg"
+    },
+    {
+        "id": 2034,
+        "title": "Lovely★Complex",
+        "scored_by": 289611,
+        "type": "TV",
+        "episodes": 24,
+        "score": 8.03,
+        "image_url": "https://cdn.myanimelist.net/images/anime/11/75563.jpg"
+    },
+    {
+        "id": 2104,
+        "title": "Seto no Hanayome",
+        "scored_by": 144109,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.66,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/58383.jpg"
+    },
+    {
+        "id": 2107,
+        "title": "One Piece Movie 08: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi",
+        "scored_by": 38472,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.31,
+        "image_url": "https://cdn.myanimelist.net/images/anime/13/21760.jpg"
+    },
+    {
+        "id": 2112,
+        "title": "Over Drive",
+        "scored_by": 20437,
+        "type": "TV",
+        "episodes": 26,
+        "score": 7.53,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/89534.jpg"
+    },
+    {
+        "id": 2116,
+        "title": "Captain Tsubasa",
+        "scored_by": 51777,
+        "type": "TV",
+        "episodes": 128,
+        "score": 7.35,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1580/134917.jpg"
+    },
+    {
+        "id": 2129,
+        "title": "True Tears",
+        "scored_by": 100941,
+        "type": "TV",
+        "episodes": 13,
+        "score": 7.28,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1733/134118.jpg"
+    },
+    {
+        "id": 2130,
+        "title": "Kaibutsu Oujo",
+        "scored_by": 29261,
+        "type": "TV",
+        "episodes": 25,
+        "score": 6.98,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/20946.jpg"
+    },
+    {
+        "id": 2131,
+        "title": "Bokusatsu Tenshi Dokuro-chan 2",
+        "scored_by": 65510,
+        "type": "OVA",
+        "episodes": 2,
+        "score": 6.64,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/14709.jpg"
+    },
+    {
+        "id": 2142,
+        "title": "Blue Dragon",
+        "scored_by": 28095,
+        "type": "TV",
+        "episodes": 51,
+        "score": 6.39,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/20597.jpg"
+    },
+    {
+        "id": 2144,
+        "title": "Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panic Dattebayo!",
+        "scored_by": 122318,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 6.92,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1918/134487.jpg"
+    },
+    {
+        "id": 2148,
+        "title": "Okane ga Nai",
+        "scored_by": 25599,
+        "type": "OVA",
+        "episodes": 4,
+        "score": 6.14,
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/88352.jpg"
+    },
+    {
+        "id": 2154,
+        "title": "Tekkon Kinkreet",
+        "scored_by": 44201,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.94,
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/8520.jpg"
+    },
+    {
+        "id": 2156,
+        "title": "Bakugan Battle Brawlers",
+        "scored_by": 67296,
+        "type": "TV",
+        "episodes": 52,
+        "score": 6.44,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/21568.jpg"
+    },
+    {
+        "id": 2159,
+        "title": "Ookiku Furikabutte",
+        "scored_by": 40802,
+        "type": "TV",
+        "episodes": 25,
+        "score": 7.88,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/20751.jpg"
+    },
+    {
+        "id": 2164,
+        "title": "Dennou Coil",
+        "scored_by": 43416,
+        "type": "TV",
+        "episodes": 26,
+        "score": 8.03,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/12844.jpg"
+    },
+    {
+        "id": 2167,
+        "title": "Clannad",
+        "scored_by": 751345,
+        "type": "TV",
+        "episodes": 23,
+        "score": 7.99,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1804/95033.jpg"
+    },
+    {
+        "id": 2171,
+        "title": "Meitantei Conan Movie 11: Konpeki no Jolly Roger",
+        "scored_by": 25690,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.43,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1765/94323.jpg"
+    },
+    {
+        "id": 2175,
+        "title": "Kino no Tabi: The Beautiful World - Byouki no Kuni - For You",
+        "scored_by": 21787,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.67,
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/73906.jpg"
+    },
+    {
+        "id": 2201,
+        "title": "Pokemon Movie 09: Pokemon Ranger to Umi no Ouji Manaphy",
+        "scored_by": 52608,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 6.78,
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/23168.jpg"
+    },
+    {
+        "id": 2216,
+        "title": "Shigurui",
+        "scored_by": 37026,
+        "type": "TV",
+        "episodes": 12,
+        "score": 7.37,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1440/115872.jpg"
+    },
+    {
+        "id": 2236,
+        "title": "Toki wo Kakeru Shoujo",
+        "scored_by": 452504,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.11,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1/2432.jpg"
+    },
+    {
+        "id": 2246,
+        "title": "Mononoke",
+        "scored_by": 92182,
+        "type": "TV",
+        "episodes": 12,
+        "score": 8.42,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/20713.jpg"
+    },
+    {
+        "id": 2248,
+        "title": "Naruto: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo! - Konoha no Sato no Dai Undoukai",
+        "scored_by": 43525,
+        "type": "Special",
+        "episodes": 1,
+        "score": 6.86,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1/2473.jpg"
+    },
+    {
+        "id": 2251,
+        "title": "Baccano!",
+        "scored_by": 379749,
+        "type": "TV",
+        "episodes": 13,
+        "score": 8.36,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/14547.jpg"
+    },
+    {
+        "id": 2273,
+        "title": "Shin Kidou Senki Gundam Wing: Endless Waltz Special",
+        "scored_by": 36094,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.78,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1907/139447.jpg"
+    },
+    {
+        "id": 2369,
+        "title": "Rental Magica",
+        "scored_by": 21407,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.0,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/73999.jpg"
+    },
+    {
+        "id": 2385,
+        "title": "One Piece: Jango no Dance Carnival",
+        "scored_by": 23153,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.13,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1682/140426.jpg"
+    },
+    {
+        "id": 2386,
+        "title": "One Piece: Yume no Soccer Ou!",
+        "scored_by": 24872,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.09,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/70587.jpg"
+    },
+    {
+        "id": 2397,
+        "title": "Digimon Adventure: Bokura no War Game!",
+        "scored_by": 48636,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.79,
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/72451.jpg"
+    },
+    {
+        "id": 2398,
+        "title": "Digimon Adventure 02: Diablomon no Gyakushuu",
+        "scored_by": 30167,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.26,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/82620.jpg"
+    },
+    {
+        "id": 2402,
+        "title": "Ashita no Joe",
+        "scored_by": 23322,
+        "type": "TV",
+        "episodes": 79,
+        "score": 8.3,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/64671.jpg"
+    },
+    {
+        "id": 2403,
+        "title": "Kodomo no Jikan (TV)",
+        "scored_by": 53375,
+        "type": "TV",
+        "episodes": 12,
+        "score": 6.7,
+        "image_url": "https://cdn.myanimelist.net/images/anime/8/28234.jpg"
+    },
+    {
+        "id": 2404,
+        "title": "Zombie-Loan",
+        "scored_by": 64383,
+        "type": "TV",
+        "episodes": 11,
+        "score": 6.83,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/21539.jpg"
+    },
+    {
+        "id": 2418,
+        "title": "Stranger: Mukou Hadan",
+        "scored_by": 163426,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.26,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/87066.jpg"
+    },
+    {
+        "id": 2471,
+        "title": "Doraemon (1979)",
+        "scored_by": 37222,
+        "type": "TV",
+        "episodes": 1787,
+        "score": 7.82,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/3953.jpg"
+    },
+    {
+        "id": 2472,
+        "title": "Naruto: Shippuuden Movie 1",
+        "scored_by": 172145,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.29,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1703/134493.jpg"
+    },
+    {
+        "id": 2476,
+        "title": "School Days",
+        "scored_by": 396149,
+        "type": "TV",
+        "episodes": 12,
+        "score": 5.52,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1593/122440.jpg"
+    },
+    {
+        "id": 2494,
+        "title": "Goshuushou-sama Ninomiya-kun",
+        "scored_by": 48363,
+        "type": "TV",
+        "episodes": 12,
+        "score": 6.66,
+        "image_url": "https://cdn.myanimelist.net/images/anime/6/75603.jpg"
+    },
+    {
+        "id": 2508,
+        "title": "Genshiken 2",
+        "scored_by": 44900,
+        "type": "TV",
+        "episodes": 12,
+        "score": 7.75,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1958/94708.jpg"
+    },
+    {
+        "id": 2581,
+        "title": "Kidou Senshi Gundam 00",
+        "scored_by": 120939,
+        "type": "TV",
+        "episodes": 25,
+        "score": 8.11,
+        "image_url": "https://cdn.myanimelist.net/images/anime/3/13200.jpg"
+    },
+    {
+        "id": 2593,
+        "title": "Kara no Kyoukai Movie 1: Fukan Fuukei",
+        "scored_by": 184364,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.57,
+        "image_url": "https://cdn.myanimelist.net/images/anime/12/21741.jpg"
+    },
+    {
+        "id": 2594,
+        "title": "Piano no Mori",
+        "scored_by": 27093,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 7.62,
+        "image_url": "https://cdn.myanimelist.net/images/anime/9/45012.jpg"
+    },
+    {
+        "id": 2596,
+        "title": "Shinreigari",
+        "scored_by": 44883,
+        "type": "TV",
+        "episodes": 22,
+        "score": 7.41,
+        "image_url": "https://cdn.myanimelist.net/images/anime/2/80967.jpg"
+    },
+    {
+        "id": 2605,
+        "title": "Sayonara Zetsubou Sensei",
+        "scored_by": 127473,
+        "type": "TV",
+        "episodes": 12,
+        "score": 7.86,
+        "image_url": "https://cdn.myanimelist.net/images/anime/5/6559.jpg"
+    },
+    {
+        "id": 2685,
+        "title": "Tsubasa: Tokyo Revelations",
+        "scored_by": 44903,
+        "type": "OVA",
+        "episodes": 3,
+        "score": 8.27,
+        "image_url": "https://cdn.myanimelist.net/images/anime/4/49129.jpg"
+    },
+    {
+        "id": 2752,
+        "title": "Tennis no Oujisama: Zenkoku Taikai-hen - Semifinal",
+        "scored_by": 20482,
+        "type": "OVA",
+        "episodes": 6,
+        "score": 7.88,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1640/133533.jpg"
+    },
+    {
+        "id": 2759,
+        "title": "Evangelion Movie 1: Jo",
+        "scored_by": 344151,
+        "type": "Movie",
+        "episodes": 1,
+        "score": 8.0,
+        "image_url": "https://cdn.myanimelist.net/images/anime/7/74975.jpg"
+    },
+    {
+        "id": 2787,
+        "title": "Shakugan no Shana II (Second)",
+        "scored_by": 171680,
+        "type": "TV",
+        "episodes": 24,
+        "score": 7.55,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1827/134365.jpg"
+    },
+    {
+        "id": 2795,
+        "title": "Dragonaut: The Resonance",
+        "scored_by": 33279,
+        "type": "TV",
+        "episodes": 25,
+        "score": 6.59,
+        "image_url": "https://cdn.myanimelist.net/images/anime/1523/134026.jpg"
+    }
+]
