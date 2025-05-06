@@ -1,5 +1,6 @@
 from aiogram import Router
-from aiogram.types import InlineQuery, InlineQueryResultArticle, InputTextMessageContent
+from aiogram.types import InlineQuery, InlineQueryResultArticle, InputTextMessageContent, LinkPreviewOptions, \
+    InlineQueryResultPhoto
 from aiogram import types
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 from mal import AnimeSearch
@@ -25,7 +26,7 @@ async def anime_search(inline_query: InlineQuery):
         # Проверяем, является ли anime словарем (кэшированные данные) или объектом (данные из API)
         mal_id = anime['mal_id'] if isinstance(anime, dict) else anime.mal_id
         user_rating = await get_user_rating_for_anime(user_id, mal_id)
-        user_rating_text = f"⭐️ Ваша оценка: {user_rating}\n" if user_rating is not None else ""
+        user_rating_text = f"⭐️ Ваша оценка: {user_rating}" if user_rating is not None else ""
 
         title = anime['title'] if isinstance(anime, dict) else anime.title
         description = f"{anime['score']}\n{anime['type']}" if isinstance(anime, dict) else f"{anime.score}\n{anime.type}"
@@ -38,10 +39,15 @@ async def anime_search(inline_query: InlineQuery):
                          f"🖥 Тип: {anime['type'] if isinstance(anime, dict) else anime.type}\n"
                          f"🗃 Эпизоды: {episodes}\n"
                          f"⭐️ Оценка на MAL: {score}\n"
-                         f" \n"
-                         f"{hide_link(thumb_url)}"
-                         f"{user_rating_text}\n",
-            parse_mode='HTML'
+                         f"{user_rating_text}\n"
+                         "\u2800", #костыль, невидимый символ для адекватного размещения превью и текста
+
+            parse_mode='HTML',
+            link_preview_options=LinkPreviewOptions(
+                url=thumb_url,
+                prefer_small_media=True,
+                show_above_text=False
+            )
         )
         reply_markup = None
         if chat_type_check == "sender":
@@ -57,5 +63,20 @@ async def anime_search(inline_query: InlineQuery):
             reply_markup=reply_markup
         )
         articles.append(article)
+        # photo = InlineQueryResultPhoto(
+        #     id = str(mal_id),
+        #     title = title,
+        #     description = description,
+        #     photo_url = thumb_url,
+        #     caption = f"🖊 Название: {title}\n"
+        #                  f"🖥 Тип: {anime['type'] if isinstance(anime, dict) else anime.type}\n"
+        #                  f"🗃 Эпизоды: {episodes}\n"
+        #                  f"⭐️ Оценка на MAL: {score}\n"
+        #                  f"{user_rating_text}\n",
+        #     parse_mode = 'HTML',
+        #     thumbnail_url = thumb_url,
+        #     reply_markup = reply_markup
+        # )
+        # articles.append(photo)
 
     await inline_query.answer(articles, is_personal=True, cache_time=0)

@@ -4,7 +4,7 @@ from database import get_user_ratings
 import logging
 import asyncio
 from aiogram import Router, types
-from aiogram.types import InlineQuery, InlineQueryResultArticle, InputTextMessageContent
+from aiogram.types import InlineQuery, InlineQueryResultArticle, InputTextMessageContent, LinkPreviewOptions
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
 router = Router()
@@ -50,8 +50,13 @@ async def show_user_rated_anime(inline_query: InlineQuery):
                          f"⭐️ Ваша оценка: {rating}\n"
                          f"📊 Средняя оценка пользователей бота: {anime_info.get('user_avg_rating', 'Нет оценок')}\n"
                          f"👥 Количество оценок пользователей бота: {anime_info.get('user_rating_count', 0)}\n"
-                         f"{hide_link(thumb_url)}",
-            parse_mode='HTML'
+                         "\u2800",
+            parse_mode='HTML',
+            link_preview_options=LinkPreviewOptions(
+                url=thumb_url,
+                prefer_small_media=True,
+                show_above_text=False
+            )
         )
 
         reply_markup = None

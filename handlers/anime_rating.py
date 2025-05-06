@@ -1,6 +1,5 @@
 from aiogram import Router, types
 from database import add_or_update_rating
-from mal import AnimeSearch
 
 router = Router()
 
