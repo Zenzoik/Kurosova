@@ -25,7 +25,7 @@ async def anime_search(inline_query: InlineQuery):
     for anime in search_results:
         # Проверяем, является ли anime словарем (кэшированные данные) или объектом (данные из API)
         mal_id = anime['mal_id'] if isinstance(anime, dict) else anime.mal_id
-        user_rating = await get_user_rating_for_anime(user_id, mal_id)
+        user_rating = await get_user_rating_for_anime(user_id, int(mal_id))
         user_rating_text = f"⭐️ Ваша оценка: {user_rating}" if user_rating is not None else ""
 
         title = anime['title'] if isinstance(anime, dict) else anime.title

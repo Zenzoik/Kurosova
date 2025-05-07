@@ -1,9 +1,13 @@
 import aiosqlite
-
+import asyncio
+from contextlib import asynccontextmanager
+import logging
+_db_connection = None
+_db_connection_lock = asyncio.Lock()
 DB_PATH = "anime_ratings.db"
+logger = logging.getLogger(__name__)
 
 async def init_db():
-    """Инициализация базы данных"""
     async with aiosqlite.connect(DB_PATH) as db:
         await db.execute('''
             CREATE TABLE IF NOT EXISTS ratings (
@@ -11,24 +15,46 @@ async def init_db():
                 mal_anime_id INTEGER,
                 user_rating INTEGER,
                 PRIMARY KEY (user_id, mal_anime_id)
-            )
+            );
         ''')
+        await db.execute(
+            'CREATE INDEX IF NOT EXISTS idx_ratings_user ON ratings(user_id);'
+        )
         await db.commit()
 
-async def add_or_update_rating(user_id, mal_anime_id, user_rating):
-    """Добавление или обновление оценки пользователя"""
-    async with aiosqlite.connect(DB_PATH) as db:
-        await db.execute('''
+
+@asynccontextmanager
+async def get_db_connection():
+    """Асинхронный контекстный менеджер для получения соединения с БД"""
+    global _db_connection
+
+    async with _db_connection_lock:
+        if _db_connection is None:
+            _db_connection = await aiosqlite.connect(DB_PATH)
+
+    try:
+        yield _db_connection
+    except Exception as e:
+        logger.error(f"Ошибка при работе с БД: {e}")
+        raise
+
+
+async def add_or_update_rating(user_id:int, mal_anime_id:int, user_rating:int):
+    async with get_db_connection() as db:             # было: aiosqlite.connect()
+        await db.execute(
+            '''
             INSERT INTO ratings (user_id, mal_anime_id, user_rating)
             VALUES (?, ?, ?)
             ON CONFLICT(user_id, mal_anime_id)
             DO UPDATE SET user_rating = excluded.user_rating
-        ''', (user_id, mal_anime_id, user_rating))
+            ''',
+            (user_id, mal_anime_id, user_rating)
+        )
         await db.commit()
         
 async def get_user_ratings(user_id: int, offset: int = 0, limit: int = 5):
     """Получение всех оценённых аниме пользователя с поддержкой пагинации"""
-    async with aiosqlite.connect(DB_PATH) as db:
+    async with get_db_connection() as db:
         cursor = await db.execute(
             "SELECT mal_anime_id, user_rating FROM ratings WHERE user_id = ? LIMIT ? OFFSET ?",
             (user_id, limit, offset)
@@ -41,19 +67,16 @@ async def get_user_ratings(user_id: int, offset: int = 0, limit: int = 5):
 
 async def get_user_rating_info(mal_anime_id):
     """Получение информации о рейтинге аниме"""
-    async with aiosqlite.connect(DB_PATH) as db:
+    async with get_db_connection() as db:
         async with db.execute("SELECT AVG(user_rating), COUNT(user_rating) FROM ratings WHERE mal_anime_id = ?", (mal_anime_id,)) as cursor:
             result = await cursor.fetchone()
-            return {"average": result[0], "count": result[1]} if result else None
+            return {"avg_rating": result[0], "rating_count": result[1]} if result else None
 
 async def get_user_rating_for_anime(user_id: int, mal_anime_id: int):
-    async with aiosqlite.connect("anime_ratings.db") as db:
-        # Выполнение запроса к базе данных для поиска оценки пользователя
-        async with db.execute("""
-            SELECT user_rating FROM ratings
-            WHERE user_id = ? AND mal_anime_id = ?
-        """, (user_id, mal_anime_id)) as cursor:
+    async with get_db_connection() as db:
+        async with db.execute(
+            "SELECT user_rating FROM ratings WHERE user_id = ? AND mal_anime_id = ?",
+            (user_id, mal_anime_id)
+        ) as cursor:
             row = await cursor.fetchone()
-            if row:
-                return row[0]  # Возвращаем оценку пользователя, если она найдена
-    return None  # Возвращаем None, если оценка не найдена
+            return row[0] if row else None

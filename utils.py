@@ -3,16 +3,25 @@ import json
 import os
 from mal import Anime
 import random
+from aiocache import cached, Cache
 from aiogram.utils.markdown import hide_link
 from database import get_user_rating_info
 
 # Настройка логирования
 logger = logging.getLogger(__name__)
-
-# Константа для пути к файлу данных
 ANIME_DATA_FILE = 'anime_data_filtered.json'
 
-async def get_anime_info_by_mal_id(mal_id):
+def mal_key_builder(func, *args, **kwargs):
+    """Формирует ключ вида mal:35849"""
+    mal_id = args[0] if args else kwargs.get("mal_id")
+    return f"mal:{mal_id}"
+
+@cached(
+    ttl=86_400,                           # живёт сутки
+    cache=Cache.MEMORY,                   # либо Cache.REDIS(namespace="mal")
+    key_builder=mal_key_builder                   # задаём ключ явно
+)
+async def get_anime_info_by_mal_id(mal_id:int) -> dict:
     """
     Получает информацию об аниме по его MAL ID
     
@@ -27,13 +36,11 @@ async def get_anime_info_by_mal_id(mal_id):
         if anime.title is None:
             logger.error(f"Аниме с MAL ID {mal_id} не найдено.")
             return None
-
-        # Получаем среднюю оценку пользователей и количество оценок из базы данных
         user_rating_info = await get_user_rating_info(mal_id)
         if not user_rating_info:
             user_rating_info = {"avg_rating": 0, "rating_count": 0}
 
-        anime_info = {
+        return{
             'mal_id': mal_id,
             'title': anime.title,
             'image_url': anime.image_url,
@@ -44,12 +51,8 @@ async def get_anime_info_by_mal_id(mal_id):
             'user_avg_rating': user_rating_info.get('avg_rating', 0),
             'user_rating_count': user_rating_info.get('rating_count', 0)
         }
-
-        # Следующий комментарий указывает на то, что здесь можно добавить кэширование
-        # в будущем для оптимизации запросов к API
-        # add_to_cache(mal_id, anime_info)
         
-        return anime_info
+
     except Exception as e:
         logger.error(f"Ошибка при запросе к MAL API для MAL ID {mal_id}: {e}")
         return None
