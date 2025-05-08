@@ -1,10 +1,7 @@
-import random
 from aiogram import Router, types
-from mal import Anime
 from aiogram.utils.keyboard import InlineKeyboardBuilder
-from aiogram.types import InlineKeyboardButton
 
-from utils import select_random_anime_from_collected, load_collected_anime_data
+from bot.utils.utils import select_random_anime_from_collected, load_collected_anime_data
 
 router = Router()
 

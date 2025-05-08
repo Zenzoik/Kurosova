@@ -1,5 +1,5 @@
 from aiogram import Router, types
-from database import add_or_update_rating
+from bot.services.database import add_or_update_rating
 
 router = Router()
 

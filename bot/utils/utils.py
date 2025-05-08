@@ -5,11 +5,11 @@ from mal import Anime
 import random
 from aiocache import cached, Cache
 from aiogram.utils.markdown import hide_link
-from database import get_user_rating_info
+from bot.services.database import get_user_rating_info
 
 # Настройка логирования
 logger = logging.getLogger(__name__)
-ANIME_DATA_FILE = 'anime_data_filtered.json'
+ANIME_DATA_FILE = '../anime_data_filtered.json'
 
 def mal_key_builder(func, *args, **kwargs):
     """Формирует ключ вида mal:35849"""
@@ -18,7 +18,6 @@ def mal_key_builder(func, *args, **kwargs):
 
 @cached(
     ttl=86_400,                           # живёт сутки
-    cache=Cache.MEMORY,                   # либо Cache.REDIS(namespace="mal")
     key_builder=mal_key_builder                   # задаём ключ явно
 )
 async def get_anime_info_by_mal_id(mal_id:int) -> dict:

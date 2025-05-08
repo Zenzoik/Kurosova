@@ -1,6 +1,5 @@
-from aiogram.utils.markdown import hide_link
-from utils import get_anime_info_by_mal_id
-from database import get_user_ratings
+from bot.utils.utils import get_anime_info_by_mal_id
+from bot.services.database import get_user_ratings
 import logging
 import asyncio
 from aiogram import Router, types

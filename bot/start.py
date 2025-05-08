@@ -1,32 +1,24 @@
 import asyncio
 import logging
+from bot.config import BOT_TOKEN, LOG_LEVEL, REDIS_DSN
+from bot.utils.logger import setup as setup_logging
+from bot.utils.cache import init_cache
 import sys
 from aiogram import Bot, Dispatcher
-from config import API_TOKEN, LOGGING_LEVEL
-from database import init_db
-from handlers import (
-    anime_rating, 
-    random_anime_handler, 
-    start_handler, 
-    inline_search, 
-    inline_search_my, 
-    query_handler
-)
 
-# Настройка логирования
-logging.basicConfig(
-    level=getattr(logging, LOGGING_LEVEL, logging.INFO),
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.StreamHandler(sys.stdout),
-        logging.FileHandler('bot.log')
-    ]
-)
+from bot.services.database import init_db
+from bot.handlers import(start_handler,
+                         inline_search_my,
+                         inline_search,
+                         random_anime_handler,
+                         query_handler,
+                         anime_rating)
 
+setup_logging(LOG_LEVEL)
 logger = logging.getLogger(__name__)
-
+init_cache(REDIS_DSN)
 # Создание экземпляра бота
-bot = Bot(API_TOKEN)
+bot = Bot(BOT_TOKEN)
 
 # Настройка диспетчера
 dp = Dispatcher()

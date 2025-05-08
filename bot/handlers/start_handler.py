@@ -1,7 +1,7 @@
 from aiogram import Router
 from aiogram.filters import Command
 from aiogram.types import Message
-from keyboards import get_random_anime_keyboard
+from bot.services.keyboards import get_random_anime_keyboard
 
 
 router = Router()

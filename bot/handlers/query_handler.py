@@ -1,9 +1,8 @@
 from aiogram import Router, types, F
 from aiogram.exceptions import TelegramBadRequest
 from aiogram.utils.keyboard import InlineKeyboardBuilder
-import logging
-from keyboards import get_rating_keyboard
-from utils import select_random_anime_from_collected, load_collected_anime_data
+from bot.services.keyboards import get_rating_keyboard
+from bot.utils.utils import select_random_anime_from_collected, load_collected_anime_data
 
 router = Router()
 

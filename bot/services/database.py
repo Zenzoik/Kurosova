@@ -2,9 +2,9 @@ import aiosqlite
 import asyncio
 from contextlib import asynccontextmanager
 import logging
+from bot.config import DB_PATH
 _db_connection = None
 _db_connection_lock = asyncio.Lock()
-DB_PATH = "anime_ratings.db"
 logger = logging.getLogger(__name__)
 
 async def init_db():

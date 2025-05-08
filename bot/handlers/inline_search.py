@@ -1,11 +1,11 @@
 from aiogram import Router
-from aiogram.types import InlineQuery, InlineQueryResultArticle, InputTextMessageContent, LinkPreviewOptions, \
-    InlineQueryResultPhoto
+from aiogram.types import InlineQuery, InlineQueryResultArticle, InputTextMessageContent, LinkPreviewOptions
 from aiogram import types
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 from mal import AnimeSearch
-from aiogram.utils.markdown import hide_link
-from database import get_user_rating_for_anime
+from bot.utils.logger import logging
+
+from bot.services.database import get_user_rating_for_anime
 
 router = Router()
 
@@ -15,12 +15,15 @@ async def anime_search(inline_query: InlineQuery):
     search_query = inline_query.query.strip() or "Darling in the FranXX"  # По умолчанию для примера
     chat_type_check = inline_query.chat_type
 
-    # Если запрос пустой, загружаем данные из файла
-    if not search_query or search_query == "Darling in the FranXX":
-        search_results = AnimeSearch("Darling in the FranXX").results[:5]
-    else:
-        search_results = AnimeSearch(search_query).results[:5]  # Получаем первые 5 результатов
-
+    try:
+        if not search_query or search_query == "Darling in the FranXX":
+            search_results = AnimeSearch("Darling in the FranXX").results[:5]
+        else:
+            search_results = AnimeSearch(search_query).results[:5]  # Получаем первые 5 результатов
+    except ValueError:
+        # MAL вернул «0 results» — просто скажем Telegram-у, что нечего показать
+        logging.info(f"⛔ Ничего не найдено по запросу «{search_query}»")
+        return await inline_query.answer([], is_personal=True)
     articles = []
     for anime in search_results:
         # Проверяем, является ли anime словарем (кэшированные данные) или объектом (данные из API)
