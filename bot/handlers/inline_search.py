@@ -1,6 +1,7 @@
 from aiogram import Router
 from aiogram.types import InlineQuery, InlineQueryResultArticle, InputTextMessageContent, LinkPreviewOptions
 from aiogram import types
+import asyncio
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 from mal import AnimeSearch
 from bot.utils.logger import logging
@@ -17,9 +18,13 @@ async def anime_search(inline_query: InlineQuery):
 
     try:
         if not search_query or search_query == "Darling in the FranXX":
-            search_results = AnimeSearch("Darling in the FranXX").results[:5]
+            search_results = await asyncio.to_thread(
+                lambda: AnimeSearch("Darling in the FranXX").results[:5]
+            )
         else:
-            search_results = AnimeSearch(search_query).results[:5]  # Получаем первые 5 результатов
+            search_results = await asyncio.to_thread(
+                lambda: AnimeSearch(search_query).results[:5]
+            )
     except ValueError:
         # MAL вернул «0 results» — просто скажем Telegram-у, что нечего показать
         logging.info(f"⛔ Ничего не найдено по запросу «{search_query}»")
