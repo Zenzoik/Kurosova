@@ -63,7 +63,10 @@ async def handle_delete(callback: types.CallbackQuery):
 
     await delete_user_rating(user_id, mal_id)
     try:
-        await callback.message.edit_reply_markup(reply_markup=None)
+        await callback.bot.edit_message_reply_markup(
+            inline_message_id=callback.inline_message_id,
+            reply_markup=None,
+        )
     except TelegramBadRequest:
         pass
 
