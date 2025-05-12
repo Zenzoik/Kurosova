@@ -46,9 +46,7 @@ async def get_anime_info_by_mal_id(mal_id:int) -> dict:
             'score': anime.score,
             'type': anime.type,
             'episodes': anime.episodes,
-            'synopsis': anime.synopsis,
-            'user_avg_rating': user_rating_info.get('avg_rating', 0),
-            'user_rating_count': user_rating_info.get('rating_count', 0)
+            'synopsis': anime.synopsis
         }
         
 
