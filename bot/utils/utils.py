@@ -6,11 +6,10 @@ import random
 from aiocache import cached, Cache
 from aiogram.utils.markdown import hide_link
 from bot.services.database import get_user_rating_info
-
+from pathlib import Path
 # Настройка логирования
 logger = logging.getLogger(__name__)
-ANIME_DATA_FILE = '../anime_data_filtered.json'
-
+ANIME_DATA_FILE = Path(__file__).resolve().parent.parent / "anime_data_filtered.json"
 def mal_key_builder(func, *args, **kwargs):
     """Формирует ключ вида mal:35849"""
     mal_id = args[0] if args else kwargs.get("mal_id")
@@ -61,16 +60,15 @@ def load_collected_anime_data():
     Returns:
         list: Список аниме из файла или пустой список в случае ошибки
     """
-    try:
-        if not os.path.exists(ANIME_DATA_FILE):
-            logger.error(f"Файл {ANIME_DATA_FILE} не найден")
-            return []
+    if not os.path.exists(ANIME_DATA_FILE):
+        logger.error(f"Файл {ANIME_DATA_FILE} не найден")
+        return []
             
-        with open(ANIME_DATA_FILE, 'r', encoding='utf-8') as file:
-            anime_list = json.load(file)
-        return anime_list
+    try:
+        with ANIME_DATA_FILE.open(encoding="utf-8") as f:
+            return json.load(f)
     except Exception as e:
-        logger.error(f"Ошибка при загрузке данных об аниме: {e}")
+        logger.exception("Ошибка чтения %s: %s", ANIME_DATA_FILE.name, e)
         return []
 
 def check_attributes(anime):
