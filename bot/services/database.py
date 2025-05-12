@@ -2,6 +2,9 @@ import aiosqlite
 import asyncio
 from contextlib import asynccontextmanager
 import logging
+
+from aiocache import caches
+
 from bot.config import DB_PATH
 _db_connection = None
 _db_connection_lock = asyncio.Lock()
@@ -80,3 +83,12 @@ async def get_user_rating_for_anime(user_id: int, mal_anime_id: int):
         ) as cursor:
             row = await cursor.fetchone()
             return row[0] if row else None
+
+async def delete_user_rating(user_id: int, mal_anime_id: int):
+    async with get_db_connection() as db:
+        await db.execute(
+            "DELETE FROM ratings WHERE user_id = ? AND mal_anime_id = ?",
+            (user_id, mal_anime_id)
+        )
+        await db.commit()
+        await caches.get("default").delete(f"mal:{mal_anime_id}")

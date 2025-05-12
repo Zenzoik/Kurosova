@@ -1,6 +1,8 @@
 from aiogram import Router, types, F
 from aiogram.exceptions import TelegramBadRequest
 from aiogram.utils.keyboard import InlineKeyboardBuilder
+from bot.utils.logger import logging
+from bot.services.database import delete_user_rating
 from bot.services.keyboards import get_rating_keyboard
 from bot.utils.utils import select_random_anime_from_collected, load_collected_anime_data
 
@@ -53,4 +55,17 @@ async def handle_hide(query: types.CallbackQuery):
         await query.answer()
     except TelegramBadRequest:
         pass  # Игнорируем ошибку, если сообщение уже удалено или query устарел
+
+@router.callback_query(F.data.startswith("del_anime:"))
+async def handle_delete(callback: types.CallbackQuery):
+    user_id = callback.from_user.id
+    mal_id  = int(callback.data.split(":")[1])
+
+    await delete_user_rating(user_id, mal_id)
+    try:
+        await callback.message.edit_reply_markup(reply_markup=None)
+    except TelegramBadRequest:
+        pass
+
+    await callback.answer("Оценка удалена", show_alert=False)
 

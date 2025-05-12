@@ -83,6 +83,10 @@ async def show_user_rated_anime(inline_query: InlineQuery) -> None:
                 text="Переоценить",
                 callback_data=f"rate_anime:{mal_id}",
             ))
+            kb.add(types.InlineKeyboardButton(
+                text="🗑 Удалить",
+                callback_data = f"del_anime:{mal_id}"
+            ))
             reply_markup = kb.as_markup()
 
         articles.append(
