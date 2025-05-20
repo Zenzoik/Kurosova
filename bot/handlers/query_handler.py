@@ -1,7 +1,6 @@
 from aiogram import Router, types, F
 from aiogram.exceptions import TelegramBadRequest
 from aiogram.utils.keyboard import InlineKeyboardBuilder
-from bot.utils.logger import logging
 from bot.services.database import delete_user_rating
 from bot.services.keyboards import get_rating_keyboard
 from bot.utils.utils import select_random_anime_from_collected, load_collected_anime_data
@@ -11,7 +10,7 @@ router = Router()
 @router.callback_query(F.data.startswith('rate_anime'))
 async def handle_rating(query: types.CallbackQuery):
     mal_anime_id = query.data.split(':')[1]
-    await query.bot.send_message(query.from_user.id, text="Choose rating from 0 to 10:", reply_markup=get_rating_keyboard(mal_anime_id))
+    await query.bot.send_message(query.from_user.id, text="Виберіть оцінку від 0 до 10:", reply_markup=get_rating_keyboard(mal_anime_id))
     await query.answer()
 
 @router.callback_query(F.data.startswith("next"))
@@ -22,9 +21,9 @@ async def handle_next(query: types.CallbackQuery):
     # Запускаем функцию выбора следующего аниме из загруженного списка
     anime_info = select_random_anime_from_collected(anime_list)
     reply_markup = InlineKeyboardBuilder()
-    reply_markup.add(types.InlineKeyboardButton(text="Оценить", callback_data=f"rate_anime:{anime_info['id']}"))
-    reply_markup.add(types.InlineKeyboardButton(text="Следующее", callback_data="next"))
-    reply_markup.add(types.InlineKeyboardButton(text="Скрыть", callback_data="hide"))
+    reply_markup.add(types.InlineKeyboardButton(text="Оцінити", callback_data=f"rate_anime:{anime_info['id']}"))
+    reply_markup.add(types.InlineKeyboardButton(text="Наступне", callback_data="next"))
+    reply_markup.add(types.InlineKeyboardButton(text="Сховати", callback_data="hide"))
     reply_markup.adjust(2, 1)
 
     # Проверяем, удалось ли найти аниме
@@ -41,7 +40,7 @@ async def handle_next(query: types.CallbackQuery):
             parse_mode="HTML"
         )
     else:
-        await query.message.edit_text("Извините, не удалось найти аниме.")
+        await query.message.edit_text("Пробачте, не вдалося знайти аніме.")
     try:
         await query.answer()
     except TelegramBadRequest:
@@ -70,5 +69,5 @@ async def handle_delete(callback: types.CallbackQuery):
     except TelegramBadRequest:
         pass
 
-    await callback.answer("Оценка удалена", show_alert=False)
+    await callback.answer("Оцінку видалено", show_alert=False)
 

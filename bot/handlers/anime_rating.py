@@ -20,6 +20,5 @@ async def handle_rating(query: types.CallbackQuery):
     key = mal_key_builder(None, mal_anime_id)
     await caches.get('default').delete(key)
 
-    await add_or_update_rating(query.from_user.id, int(mal_anime_id), int(rating))
-    await query.message.edit_text(f"Вы оценил на {rating}/10")
+    await query.message.edit_text(f"Ви оцінили на {rating}/10")
     await query.answer()

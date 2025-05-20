@@ -58,11 +58,11 @@ async def show_user_rated_anime(inline_query: InlineQuery) -> None:
         cnt        = stat["rating_count"]
 
         text = (
-            f"🖊 Название: {title}\n"
-            f"⭐️ Оценка на MAL: {mal_score}\n"
-            f"⭐️ Ваша оценка: {my_rating}\n"
-            f"🎺 Средняя оценка пользователей бота: {avg:.1f}\n"
-            f"👥 Количество оценок пользователей бота: {cnt}"
+            f"🖊 Назва: {title}\n"
+            f"⭐️ Оцінка на MAL: {mal_score}\n"
+            f"⭐️ Ваша оцінка: {my_rating}\n"
+            f"🎺 Середня оцінка користувачів бота: {avg:.1f}\n"
+            f"👥 Кількість оцінок користувачів бота: {cnt}"
             "\u2800"          # невидимый символ, чтобы Telegram не урезал снизу
         )
         input_content = InputTextMessageContent(
@@ -80,11 +80,11 @@ async def show_user_rated_anime(inline_query: InlineQuery) -> None:
         if inline_query.chat_type == "sender":
             kb = InlineKeyboardBuilder()
             kb.add(types.InlineKeyboardButton(
-                text="Переоценить",
+                text="Переоцінити",
                 callback_data=f"rate_anime:{mal_id}",
             ))
             kb.add(types.InlineKeyboardButton(
-                text="🗑 Удалить",
+                text="🗑 Видалити",
                 callback_data = f"del_anime:{mal_id}"
             ))
             reply_markup = kb.as_markup()
@@ -93,7 +93,7 @@ async def show_user_rated_anime(inline_query: InlineQuery) -> None:
             InlineQueryResultArticle(
                 id=str(mal_id),
                 title=title,
-                description=f"Ваша оценка: {my_rating}",
+                description=f"Ваша оцінка: {my_rating}",
                 input_message_content=input_content,
                 thumb_url=thumb_url,
                 reply_markup=reply_markup,

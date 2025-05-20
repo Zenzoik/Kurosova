@@ -34,7 +34,7 @@ async def anime_search(inline_query: InlineQuery):
         # Проверяем, является ли anime словарем (кэшированные данные) или объектом (данные из API)
         mal_id = anime['mal_id'] if isinstance(anime, dict) else anime.mal_id
         user_rating = await get_user_rating_for_anime(user_id, int(mal_id))
-        user_rating_text = f"⭐️ Ваша оценка: {user_rating}" if user_rating is not None else ""
+        user_rating_text = f"⭐️ Ваша оцінка: {user_rating}" if user_rating is not None else ""
 
         title = anime['title'] if isinstance(anime, dict) else anime.title
         description = f"{anime['score']}\n{anime['type']}" if isinstance(anime, dict) else f"{anime.score}\n{anime.type}"
@@ -43,10 +43,10 @@ async def anime_search(inline_query: InlineQuery):
         score = anime['score'] if isinstance(anime, dict) else anime.score
 
         input_content = InputTextMessageContent(
-            message_text=f"🖊 Название: {title}\n"
+            message_text=f"🖊 Назва: {title}\n"
                          f"🖥 Тип: {anime['type'] if isinstance(anime, dict) else anime.type}\n"
-                         f"🗃 Эпизоды: {episodes}\n"
-                         f"⭐️ Оценка на MAL: {score}\n"
+                         f"🗃 Епізоди: {episodes}\n"
+                         f"⭐️ Оцінка на MAL: {score}\n"
                          f"{user_rating_text}\n"
                          "\u2800", #костыль, невидимый символ для адекватного размещения превью и текста
 
@@ -60,7 +60,7 @@ async def anime_search(inline_query: InlineQuery):
         reply_markup = None
         if chat_type_check == "sender":
             reply_markup = InlineKeyboardBuilder()
-            reply_markup.add(types.InlineKeyboardButton(text="Оценить", callback_data=f"rate_anime:{mal_id}"))
+            reply_markup.add(types.InlineKeyboardButton(text="Оцінити", callback_data=f"rate_anime:{mal_id}"))
             reply_markup = reply_markup.as_markup()
         article = InlineQueryResultArticle(
             id=str(mal_id),

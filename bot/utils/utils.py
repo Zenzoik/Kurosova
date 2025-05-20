@@ -105,11 +105,11 @@ def select_random_anime_from_collected(anime_list):
     try:
         random_anime = random.choice(anime_list)
         anime_info = (
-            f"🖊 Название: {random_anime['title']}\n"
+            f"🖊 Назва: {random_anime['title']}\n"
             f"🖥 Тип: {random_anime['type']}\n"
-            f"🗃 Эпизоды: {random_anime['episodes']}\n"
-            f"⭐️ Оценка на MAL: {random_anime['score']}\n"
-            f"🤙 Количество оценок: {random_anime['scored_by']}\n"
+            f"🗃 Епізоди: {random_anime['episodes']}\n"
+            f"⭐️ Оцінка на MAL: {random_anime['score']}\n"
+            f"🤙 Кількість оцінок: {random_anime['scored_by']}\n"
             f"{hide_link(random_anime['image_url'])}"
         )
         return {
