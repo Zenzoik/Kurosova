@@ -1,4 +1,5 @@
 # bot/handlers/inline_search_my.py
+from bot.services.keyboards import get_rating_my_keyboard
 from bot.utils.utils import get_anime_info_by_mal_id
 from bot.services.database import (
     get_user_ratings,
@@ -78,16 +79,7 @@ async def show_user_rated_anime(inline_query: InlineQuery) -> None:
         # кнопка «Переоценить» показывается только в личном чате с ботом
         reply_markup = None
         if inline_query.chat_type == "sender":
-            kb = InlineKeyboardBuilder()
-            kb.add(types.InlineKeyboardButton(
-                text="Переоцінити",
-                callback_data=f"rate_anime:{mal_id}",
-            ))
-            kb.add(types.InlineKeyboardButton(
-                text="🗑 Видалити",
-                callback_data = f"del_anime:{mal_id}"
-            ))
-            reply_markup = kb.as_markup()
+            reply_markup = get_rating_my_keyboard(mal_id)
 
         articles.append(
             InlineQueryResultArticle(
