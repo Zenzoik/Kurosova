@@ -17,8 +17,8 @@ async def show_random_anime(message: types.Message):
     reply_markup.adjust(2, 1)
     if anime_info:
         await message.answer_photo(
-            photo=anime_info["photo"],  # Отправляем изображение
-            caption=anime_info["info"],  # Описание аниме
+            photo=anime_info["photo"],
+            caption=anime_info["info"],
             parse_mode="HTML",
             reply_markup = reply_markup.as_markup()
         )

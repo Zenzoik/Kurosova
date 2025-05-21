@@ -26,12 +26,10 @@ async def anime_search(inline_query: InlineQuery):
                 lambda: AnimeSearch(search_query).results[:5]
             )
     except ValueError:
-        # MAL вернул «0 results» — просто скажем Telegram-у, что нечего показать
-        logging.info(f"⛔ Ничего не найдено по запросу «{search_query}»")
+        logging.info(f"⛔ Нічого не знайдено по запиту «{search_query}»")
         return await inline_query.answer([], is_personal=True)
     articles = []
     for anime in search_results:
-        # Проверяем, является ли anime словарем (кэшированные данные) или объектом (данные из API)
         mal_id = anime['mal_id'] if isinstance(anime, dict) else anime.mal_id
         user_rating = await get_user_rating_for_anime(user_id, int(mal_id))
         user_rating_text = f"⭐️ Ваша оцінка: {user_rating}" if user_rating is not None else ""
@@ -48,7 +46,7 @@ async def anime_search(inline_query: InlineQuery):
                          f"🗃 Епізоди: {episodes}\n"
                          f"⭐️ Оцінка на MAL: {score}\n"
                          f"{user_rating_text}\n"
-                         "\u2800", #костыль, невидимый символ для адекватного размещения превью и текста
+                         "\u2800",
 
             parse_mode='HTML',
             link_preview_options=LinkPreviewOptions(

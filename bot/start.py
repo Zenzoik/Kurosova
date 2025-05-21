@@ -17,14 +17,13 @@ from bot.handlers import(start_handler,
 setup_logging(LOG_LEVEL)
 logger = logging.getLogger(__name__)
 init_cache(REDIS_DSN)
-# Создание экземпляра бота
+
 bot = Bot(BOT_TOKEN)
 
-# Настройка диспетчера
+
 dp = Dispatcher()
 
-# Регистрация роутеров обработчиков
-# Порядок важен: более специфичные обработчики должны быть выше
+
 dp.include_router(anime_rating.router)
 dp.include_router(random_anime_handler.router)
 dp.include_router(query_handler.router)
@@ -38,12 +37,10 @@ async def main():
     """
     try:
         logger.info("Запуск бота...")
-        
-        # Инициализация базы данных
+
         await init_db()
         logger.info("База данных инициализирована")
-        
-        # Удаление вебхука и очистка очереди обновлений
+
         await bot.delete_webhook(drop_pending_updates=True)
         
         # Запуск поллинга

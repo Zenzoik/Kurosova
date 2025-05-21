@@ -64,7 +64,6 @@ async def get_user_ratings(user_id: int, offset: int = 0, limit: int = 5):
         )
         rows = await cursor.fetchall()
 
-    # Преобразуем в словарь {mal_anime_id: user_rating}
     return {row[0]: row[1] for row in rows}
 
 

@@ -17,7 +17,7 @@ def mal_key_builder(func, *args, **kwargs):
 
 @cached(
     ttl=86_400,                           # живёт сутки
-    key_builder=mal_key_builder                   # задаём ключ явно
+    key_builder=mal_key_builder
 )
 async def get_anime_info_by_mal_id(mal_id:int) -> dict:
     """

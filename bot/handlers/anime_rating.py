@@ -12,10 +12,8 @@ async def handle_rating(query: types.CallbackQuery):
     mal_anime_id = int(mal_anime_id)
     rating = int(rating)
 
-    # 1) сохранение/обновление оценки в БД
     await add_or_update_rating(query.from_user.id, mal_anime_id, rating)
 
-    # 2) инвалидируем кэш для этого MAL ID
 
     key = mal_key_builder(None, mal_anime_id)
     await caches.get('default').delete(key)

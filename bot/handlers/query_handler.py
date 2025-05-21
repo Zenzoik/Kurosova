@@ -15,10 +15,8 @@ async def handle_rating(query: types.CallbackQuery):
 
 @router.callback_query(F.data.startswith("next"))
 async def handle_next(query: types.CallbackQuery):
-    # Сначала обновляем сообщение, указывая, что поиск начался
     anime_list = load_collected_anime_data()
 
-    # Запускаем функцию выбора следующего аниме из загруженного списка
     anime_info = select_random_anime_from_collected(anime_list)
     reply_markup = InlineKeyboardBuilder()
     reply_markup.add(types.InlineKeyboardButton(text="Оцінити", callback_data=f"rate_anime:{anime_info['id']}"))
@@ -26,9 +24,7 @@ async def handle_next(query: types.CallbackQuery):
     reply_markup.add(types.InlineKeyboardButton(text="Сховати", callback_data="hide"))
     reply_markup.adjust(2, 1)
 
-    # Проверяем, удалось ли найти аниме
     if anime_info:
-        # Если аниме найдено, обновляем сообщение с новым аниме
         await query.message.edit_media(
             media=types.InputMediaPhoto(media=anime_info["photo"]),
             reply_markup=reply_markup.as_markup(),
@@ -44,7 +40,7 @@ async def handle_next(query: types.CallbackQuery):
     try:
         await query.answer()
     except TelegramBadRequest:
-        pass  # Игнорируем ошибку, если callback query устарел
+        pass
 
 
 @router.callback_query(F.data == "hide")
@@ -53,7 +49,7 @@ async def handle_hide(query: types.CallbackQuery):
         await query.message.delete()
         await query.answer()
     except TelegramBadRequest:
-        pass  # Игнорируем ошибку, если сообщение уже удалено или query устарел
+        pass
 
 @router.callback_query(F.data.startswith("del_anime:"))
 async def handle_delete(callback: types.CallbackQuery):
