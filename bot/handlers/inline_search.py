@@ -1,9 +1,9 @@
 from aiogram import Router
 from aiogram.types import InlineQuery, InlineQueryResultArticle, InputTextMessageContent, LinkPreviewOptions
-from aiogram import types
 import asyncio
-from aiogram.utils.keyboard import InlineKeyboardBuilder
 from mal import AnimeSearch
+
+from bot.services.keyboards import get_rate_anime_keyboard
 from bot.utils.logger import logging
 
 from bot.services.database import get_user_rating_for_anime
@@ -59,9 +59,7 @@ async def anime_search(inline_query: InlineQuery):
         )
         reply_markup = None
         if chat_type_check == "sender":
-            reply_markup = InlineKeyboardBuilder()
-            reply_markup.add(types.InlineKeyboardButton(text="Оцінити", callback_data=f"rate_anime:{mal_id}"))
-            reply_markup = reply_markup.as_markup()
+            reply_markup = get_rate_anime_keyboard(mal_id)
         article = InlineQueryResultArticle(
             id=str(mal_id),
             title=title,

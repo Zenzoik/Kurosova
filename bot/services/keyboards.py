@@ -8,6 +8,11 @@ def get_rating_keyboard(mal_anime_id):
     builder.adjust(1, 3, 3, 3)
     return builder.as_markup()
 
+def get_rate_anime_keyboard(mal_id):
+    builder = InlineKeyboardBuilder()
+    builder.add(InlineKeyboardButton(text="Оцінити", callback_data=f"rate_anime:{mal_id}"))
+    return builder.as_markup()
+
 def get_random_anime_inline_keyboard(anime_id):
     builder = InlineKeyboardBuilder()
     builder.add(InlineKeyboardButton(text="Оцінити", callback_data=f"rate:{anime_id}"))
