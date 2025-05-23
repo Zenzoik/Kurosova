@@ -24,7 +24,7 @@ async def show_user_rated_anime(inline_query: InlineQuery) -> None:
 
     offset = int(inline_query.offset or 0)
     user_id = inline_query.from_user.id
-    logging.info("Вызван show_user_rated_anime")
+    logging.info("Викликано show_user_rated_anime")
 
     user_ratings = await get_user_ratings(user_id, offset, 5)
 
@@ -44,7 +44,7 @@ async def show_user_rated_anime(inline_query: InlineQuery) -> None:
 
     for mal_id, info, stat in zip(mal_ids, anime_infos, stats):
         if isinstance(info, Exception) or not info:
-            logging.error(f"Ошибка MAL API для id={mal_id}: {info}")
+            logging.error(f"Помилка MAL API для id={mal_id}: {info}")
             continue
 
         title      = info["title"]
@@ -68,7 +68,7 @@ async def show_user_rated_anime(inline_query: InlineQuery) -> None:
             link_preview_options=LinkPreviewOptions(
                 url=thumb_url,
                 prefer_small_media=True,
-                show_above_text=False,
+                show_above_text=True,
             ),
         )
 

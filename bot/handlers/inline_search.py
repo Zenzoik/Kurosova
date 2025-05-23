@@ -13,7 +13,7 @@ router = Router()
 @router.inline_query()
 async def anime_search(inline_query: InlineQuery):
     user_id = inline_query.from_user.id
-    search_query = inline_query.query.strip() or "Darling in the FranXX"  # По умолчанию для примера
+    search_query = inline_query.query.strip() or "Darling in the FranXX"
     chat_type_check = inline_query.chat_type
 
     try:

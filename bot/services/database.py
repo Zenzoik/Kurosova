@@ -38,12 +38,12 @@ async def get_db_connection():
     try:
         yield _db_connection
     except Exception as e:
-        logger.error(f"Ошибка при работе с БД: {e}")
+        logger.error(f"Помилка під час роботи с БД: {e}")
         raise
 
 
 async def add_or_update_rating(user_id:int, mal_anime_id:int, user_rating:int):
-    async with get_db_connection() as db:             # было: aiosqlite.connect()
+    async with get_db_connection() as db:
         await db.execute(
             '''
             INSERT INTO ratings (user_id, mal_anime_id, user_rating)

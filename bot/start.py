@@ -5,7 +5,6 @@ from bot.utils.logger import setup as setup_logging
 from bot.utils.cache import init_cache
 import sys
 from aiogram import Bot, Dispatcher
-
 from bot.services.database import init_db
 from bot.handlers import(start_handler,
                          inline_search_my,
@@ -39,21 +38,21 @@ async def main():
         logger.info("Запуск бота...")
 
         await init_db()
-        logger.info("База данных инициализирована")
+        logger.info("База данних ініціалізоровано")
 
         await bot.delete_webhook(drop_pending_updates=True)
         
         # Запуск поллинга
-        logger.info("Бот запущен и ожидает сообщений")
+        logger.info("Бот працює и очікує повідомлень")
         await dp.start_polling(bot)
     except Exception as e:
-        logger.critical(f"Критическая ошибка при запуске бота: {e}")
+        logger.critical(f"Критична помилка при запуску бота: {e}")
         sys.exit(1)
 
 if __name__ == "__main__":
     try:
         asyncio.run(main())
     except (KeyboardInterrupt, SystemExit):
-        logger.info("Бот остановлен")
+        logger.info("Бота зупинено")
     except Exception as e:
-        logger.critical(f"Необработанное исключение: {e}")
+        logger.critical(f"Неопрацьованне виключення: {e}")

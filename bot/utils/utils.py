@@ -32,7 +32,7 @@ async def get_anime_info_by_mal_id(mal_id:int) -> dict:
     try:
         anime = Anime(mal_id)
         if anime.title is None:
-            logger.error(f"Аниме с MAL ID {mal_id} не найдено.")
+            logger.error(f"Аніме з MAL ID {mal_id} не знайдено.")
             return None
         user_rating_info = await get_user_rating_info(mal_id)
         if not user_rating_info:
@@ -50,7 +50,7 @@ async def get_anime_info_by_mal_id(mal_id:int) -> dict:
         
 
     except Exception as e:
-        logger.error(f"Ошибка при запросе к MAL API для MAL ID {mal_id}: {e}")
+        logger.error(f"Помилка при запиті до MAL API для MAL ID {mal_id}: {e}")
         return None
 
 def load_collected_anime_data():
@@ -61,14 +61,14 @@ def load_collected_anime_data():
         list: Список аниме из файла или пустой список в случае ошибки
     """
     if not os.path.exists(ANIME_DATA_FILE):
-        logger.error(f"Файл {ANIME_DATA_FILE} не найден")
+        logger.error(f"Файл {ANIME_DATA_FILE} не знайдено")
         return []
             
     try:
         with ANIME_DATA_FILE.open(encoding="utf-8") as f:
             return json.load(f)
     except Exception as e:
-        logger.exception("Ошибка чтения %s: %s", ANIME_DATA_FILE.name, e)
+        logger.exception("Помилка читання файлу %s: %s", ANIME_DATA_FILE.name, e)
         return []
 
 def check_attributes(anime):
@@ -99,7 +99,7 @@ def select_random_anime_from_collected(anime_list):
         dict: Информация о выбранном аниме
     """
     if not anime_list:
-        logger.error("Список аниме пуст, невозможно выбрать случайное аниме")
+        logger.error("Список аніме пустий, неможливо обрати випадкове аніме")
         return None
         
     try:
@@ -119,5 +119,5 @@ def select_random_anime_from_collected(anime_list):
             "title": random_anime['title']
         }
     except Exception as e:
-        logger.error(f"Ошибка при выборе случайного аниме: {e}")
+        logger.error(f"Помилка під час вибору випадкового аніме: {e}")
         return None

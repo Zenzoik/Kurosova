@@ -14,12 +14,11 @@ def init_cache(redis_dsn: str or None) -> None:
                 "port": int(port),
                 "serializer": {"class": "aiocache.serializers.PickleSerializer"},
                 "namespace": "mal",
-                "ttl": 86_400,              # сутки
+                "ttl": 86_400,
                 "timeout": 1
             }
         })
     else:
-        # Поведение по-умолчанию (память процесса)
         caches.set_config({
             "default": {
                 "cache": "aiocache.SimpleMemoryCache",
